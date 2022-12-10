@@ -9,3 +9,4 @@ The official Forge MDK (Modding Development Kit) is available at [Forge's websit
 * [FalsePattern/ExampleMod1.7.10](https://github.com/FalsePattern/ExampleMod1.7.10)
 * [GTNewHorizons/ExampleMod1.7.10](https://github.com/GTNewHorizons/ExampleMod1.7.10)
 * [anatawa12/ForgeGradle-example](https://github.com/anatawa12/ForgeGradle-example)
+* [Aizistral-Studios/ForgeWorkspaceSetup](https://github.com/Aizistral-Studios/ForgeWorkspaceSetup)

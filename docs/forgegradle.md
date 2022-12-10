@@ -16,3 +16,5 @@ Notable forks of FG 1.2:
     * Supports Gradle 6.9.1
 * anatawa fork: [https://github.com/anatawa12/ForgeGradle](https://github.com/anatawa12/ForgeGradle)
     * Supports Gradle 7.4.2
+* juanmuscaria fork: [https://github.com/juanmuscaria/ForgeGradle](https://github.com/juanmuscaria/ForgeGradle)
+    * Supports Gradle 5.6.4
