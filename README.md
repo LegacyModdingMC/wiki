@@ -1,8 +1,12 @@
 The Legacy Modding wiki aims to be a comprehensive resource about creating mods for old versions of Minecraft. Currently it mainly focuses on Forge mod development for 1.7.10.
 
+The wiki can be browsed **[here](https://legacymoddingmc.github.io/wiki/)**.
+
 ## Contributing
 
-It's possible to contribute by simply editing the markdown files in the `docs` directory. However, to test changes, it may be desirable to set up a local mkdocs server:
+It's possible to contribute by simply editing the markdown files in the `docs` directory. The index page is at [docs/index.md](docs/index.md).
+
+However, to test changes, it may be desirable to set up a local mkdocs server:
 
 ```
 pip install mkdocs mkdocs-windmill
