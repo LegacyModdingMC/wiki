@@ -4,6 +4,8 @@
 
 The official Forge MDK (Modding Development Kit) is available at [Forge's website](https://files.minecraftforge.net/). However, MDKs for legacy versions no longer function out of the box. Therefore it's recommended to start from one of the following modern template projects instead.
 
+(For the curious, a guide to fixing up the old build script can be found [here](troubleshooting-1.7.10-build-scripts.md))
+
 ### Template projects
 
 * [FalsePattern/ExampleMod1.7.10](https://github.com/FalsePattern/ExampleMod1.7.10)
