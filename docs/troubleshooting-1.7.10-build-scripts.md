@@ -26,7 +26,11 @@ This will get you all branches and the entire history of the mod, which lets you
 
 **Alternatively**: Look for a download button and click it. This will only download the latest commit.
 
-> Some mods have the 1.7.10 source on a different branch than the default one. To find the right branch, choose the one that mentions 1.7.10 in its `build.gradle` or `gradle.properties`.
+### Switching branches
+
+Some mods have the 1.7.10 source on a different branch than the default one. To find the right branch, choose the one that mentions 1.7.10 in its `build.gradle` or `gradle.properties`.
+
+If you cloned the repo, you can switch branches using `git checkout` (for example, `git checkout 1.7.10` will switch to the branch named `1.7.10`.)
 
 ## Build the mod and see what happens
 
