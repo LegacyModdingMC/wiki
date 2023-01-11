@@ -30,3 +30,11 @@ blockquote {
     font-size: 14px;
     opacity: 80%;
 }
+
+.wm-page-content img {
+    margin-top: 2px;
+    margin-bottom: 2px;
+    background: none;
+    border: none;
+    padding: 1px;
+}
