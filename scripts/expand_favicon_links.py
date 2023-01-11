@@ -26,6 +26,7 @@ short2long = {
 "mr": "modrinth",
 "cf": "curseforge",
 "mcf": "minecraftforum",
+"bb": "bitbucket",
 }
 
 text = open(inFile, "r", encoding="utf8").read()
