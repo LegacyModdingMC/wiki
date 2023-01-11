@@ -44,6 +44,9 @@ Some of these mods don't have binaries available and have to be compiled manuall
 	* jss fork {gh:https://github.com/jss2a98aj/dragon-mounts/commits/1.7}
 * Electrical Age {electricalage:https://electrical-age.net/} {gh:https://github.com/Electrical-Age/ElectricalAge}
 	* jrddunbr fork {gh:https://github.com/age-series/ElectricalAge} {mr:https://modrinth.com/mod/electrical-age-jrddunbr-edition}
+* EnviroMine {gh:https://github.com/EnviroMine/EnviroMine-1.7} {cf:https://www.curseforge.com/minecraft/mc-mods/enviromine}
+	* EnviroMine for Galaxy Odyssey {gl:https://gitgud.io/AstroTibs/enviromine-for-galaxy-odyssey} {cf:https://www.curseforge.com/minecraft/mc-mods/enviromine-for-galaxy-odyssey} {mr:https://modrinth.com/mod/enviromine-for-galaxy-odyssey}
+	* Envirorot {gh:https://github.com/dylanlogan2581/envirorot} {cf:https://www.curseforge.com/minecraft/mc-mods/envirorot} - Enviromine with just the food rot.
 * Et Futurum {gh:https://github.com/ganymedes01/Et-Futurum} {cf:https://www.curseforge.com/minecraft/mc-mods/et-futurum}
 	* Et Futurum Requiem {gh:https://github.com/Roadhog360/Et-Futurum-Requiem} {cf:https://www.curseforge.com/minecraft/mc-mods/et-futurum-requiem/files} {mr:https://modrinth.com/mod/etfuturum} - Massive continuation project.
 * ExtraBiomesXL {gh:https://github.com/ExtrabiomesXL/ExtrabiomesXL} {cf:https://www.curseforge.com/minecraft/mc-mods/extrabiomesxl}
