@@ -9,9 +9,9 @@ Expands the favicon links in the markdown file named IN, and writes the output
 to OUT.
 
 A favicon link has the following syntax:
-    {{siteid:url}}
+    {{<website_id>:<url>}}
 
-Where `siteid` is the id of the site, and url is the url of the link.
+Where `website_id` is the id of the site, and url is the url of the link.
 
 These will be replaced with an image of the website's favicon which links to
 the url.
@@ -40,7 +40,9 @@ outText += f'''<!--
 
 '''
 
-p = re.compile(r'{(.*?):(.*?)}')
+# website ids containing '<' are skipped to make sure we don't parse
+# example strings like this one: {<website_id>:<url>}
+p = re.compile(r'{([^<]*?):(.*?)}')
 
 while True:
     m = p.search(text, pos)
