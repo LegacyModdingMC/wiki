@@ -55,6 +55,8 @@ Some of these mods don't have binaries available and have to be compiled manuall
 	* Dbp fork {gh:https://github.com/neo-engineers/greggen} {cb:https://codeberg.org/PureMC/greggen} - Removes unnecessary GT6 dependency.
 * GTNHMixins {gh:https://github.com/GTNewHorizons/GTNHMixins} {cf:https://www.curseforge.com/minecraft/mc-mods/gtnhmixins} {mr:https://modrinth.com/mod/gtnhmixins}
 	* GTNHMixinsLite {gh:https://github.com/makamys/GTNHMixinsLite} - Fork with just GTNH's extras, to be used in combination with other Mixin loaders.
+* Invasion Mod {gh:https://github.com/UnstoppableN/Invasion-mod} {mcf:https://web.archive.org/web/20171226031645/https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/2235041-invasion-mod-so-you-think-your-base-is-tough}
+	* Doenerstyle fork {gh:https://github.com/Doenerstyle/Invasion-Mod}
 * Flan's Mod {flansmod:https://flansmod.com/}
 	* Flan's Mod Ultimate Stability Edition {gh:https://github.com/Unknown025/Flans-Mod-Plus} {cf:https://www.curseforge.com/minecraft/mc-mods/flans-mod-ultimate-stability-edition}
 * Forbidden Magic {gh:https://github.com/SpitefulFox/ForbiddenMagic} {cf:https://www.curseforge.com/minecraft/mc-mods/forbidden-magic}
