@@ -31,7 +31,7 @@ Some of these mods don't have binaries available and have to be compiled manuall
 * Botania {gh:https://github.com/VazkiiMods/Botania} {cf:https://www.curseforge.com/minecraft/mc-mods/botania}
 	* GTNH fork {gh:https://github.com/GTNewHorizons/Botania}
 * BugTorch {gh:https://github.com/jss2a98aj/BugTorch}
-	* GTNH fork {gh:https://github.com/GTNewHorizons/BugTorch}
+	* GTNH fork {gh:https://github.com/GTNewHorizons/BugTorch} - Requires GTNHMixins.
 * CodeChickenCore {gh:https://github.com/Chicken-Bones/CodeChickenCore} {cf:https://www.curseforge.com/minecraft/mc-mods/codechickencore}
 	* GTNH fork {gh:https://github.com/GTNewHorizons/CodeChickenCore} {cf:https://www.curseforge.com/minecraft/mc-mods/codechickencore-unofficial} {mr:https://modrinth.com/mod/codechickencore-unofficial}
 * CodeChickenLib {gh:https://github.com/Chicken-Bones/CodeChickenLib} {cf:https://www.curseforge.com/minecraft/mc-mods/codechickenlib}
@@ -63,6 +63,8 @@ Some of these mods don't have binaries available and have to be compiled manuall
 	* Hives Refreshed {gh:https://github.com/trollogyadherent/mob-hives-refreshed} {cf:https://www.curseforge.com/minecraft/mc-mods/hives-refreshed} {mr:https://modrinth.com/mod/mobhives}
 * JustAnotherSpawner {gh:https://github.com/ProjectZulu/JustAnotherSpawner} {cf:https://www.curseforge.com/minecraft/mc-mods/just-another-spawner} 
 	* makamys fork {gh:https://github.com/makamys/JustAnotherSpawner} - Fixes one bug.
+* LunatriusCore {gh:https://github.com/Lunatrius/LunatriusCore} {cf:https://www.curseforge.com/minecraft/mc-mods/lunatriuscore}
+	* GTNH fork {gh:https://github.com/GTNewHorizons/LunatriusCore}
 * MAtmos {gh:https://github.com/Sollace/MAtmos}
 	* makamys fork {gh:https://github.com/makamys/MAtmos} {cf:https://www.curseforge.com/minecraft/mc-mods/matmos} {mr:https://modrinth.com/mod/matmos} - Fixed many bugs and added new features.
 * Mekanism {gh:https://github.com/mekanism/mekanism} {cf:https://www.curseforge.com/minecraft/mc-mods/mekanism}
@@ -77,6 +79,8 @@ Some of these mods don't have binaries available and have to be compiled manuall
 	* makamys fork {gh:https://github.com/makamys/PlayerAPI}
 * QwerTech {gh:https://github.com/Qwertygiy/qwertech} {cf:https://www.curseforge.com/minecraft/mc-mods/qwertech}
 	* Yog fork {gh:https://github.com/Yoghurt4C/qwertech/tree/webedit-1}
+* Schematica {gh:https://github.com/Lunatrius/Schematica} {cf:https://www.curseforge.com/minecraft/mc-mods/schematica}
+	* GTNH fork {gh:https://github.com/GTNewHorizons/Schematica} - Has coordinate saving and a few other QoL changes that are not GTNH-specific. Requires GTNH's LunatriusCore fork.
 * Ships Mod {cf:https://www.curseforge.com/minecraft/mc-mods/ships-mod}
 	* Telomerase fork {gh:https://github.com/TeloDev/Cuchaz-Ships} {cf:https://www.curseforge.com/minecraft/mc-mods/ships-mod-unofficial}
 * Smart Moving {mcf:https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1274224-smart-moving} {cf:https://www.curseforge.com/minecraft/mc-mods/smart-moving}

@@ -35,7 +35,7 @@ Some of these mods don't have binaries available and have to be compiled manuall
 * Botania [![icon-github](img/favicon/github.png)](https://github.com/VazkiiMods/Botania) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/botania)
 	* GTNH fork [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/Botania)
 * BugTorch [![icon-github](img/favicon/github.png)](https://github.com/jss2a98aj/BugTorch)
-	* GTNH fork [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/BugTorch)
+	* GTNH fork [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/BugTorch) - Requires GTNHMixins.
 * CodeChickenCore [![icon-github](img/favicon/github.png)](https://github.com/Chicken-Bones/CodeChickenCore) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/codechickencore)
 	* GTNH fork [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/CodeChickenCore) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/codechickencore-unofficial) [![icon-modrinth](img/favicon/modrinth.png)](https://modrinth.com/mod/codechickencore-unofficial)
 * CodeChickenLib [![icon-github](img/favicon/github.png)](https://github.com/Chicken-Bones/CodeChickenLib) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/codechickenlib)
@@ -67,6 +67,8 @@ Some of these mods don't have binaries available and have to be compiled manuall
 	* Hives Refreshed [![icon-github](img/favicon/github.png)](https://github.com/trollogyadherent/mob-hives-refreshed) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/hives-refreshed) [![icon-modrinth](img/favicon/modrinth.png)](https://modrinth.com/mod/mobhives)
 * JustAnotherSpawner [![icon-github](img/favicon/github.png)](https://github.com/ProjectZulu/JustAnotherSpawner) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/just-another-spawner) 
 	* makamys fork [![icon-github](img/favicon/github.png)](https://github.com/makamys/JustAnotherSpawner) - Fixes one bug.
+* LunatriusCore [![icon-github](img/favicon/github.png)](https://github.com/Lunatrius/LunatriusCore) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/lunatriuscore)
+	* GTNH fork [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/LunatriusCore)
 * MAtmos [![icon-github](img/favicon/github.png)](https://github.com/Sollace/MAtmos)
 	* makamys fork [![icon-github](img/favicon/github.png)](https://github.com/makamys/MAtmos) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/matmos) [![icon-modrinth](img/favicon/modrinth.png)](https://modrinth.com/mod/matmos) - Fixed many bugs and added new features.
 * Mekanism [![icon-github](img/favicon/github.png)](https://github.com/mekanism/mekanism) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/mekanism)
@@ -81,6 +83,8 @@ Some of these mods don't have binaries available and have to be compiled manuall
 	* makamys fork [![icon-github](img/favicon/github.png)](https://github.com/makamys/PlayerAPI)
 * QwerTech [![icon-github](img/favicon/github.png)](https://github.com/Qwertygiy/qwertech) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/qwertech)
 	* Yog fork [![icon-github](img/favicon/github.png)](https://github.com/Yoghurt4C/qwertech/tree/webedit-1)
+* Schematica [![icon-github](img/favicon/github.png)](https://github.com/Lunatrius/Schematica) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/schematica)
+	* GTNH fork [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/Schematica) - Has coordinate saving and a few other QoL changes that are not GTNH-specific. Requires GTNH's LunatriusCore fork.
 * Ships Mod [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/ships-mod)
 	* Telomerase fork [![icon-github](img/favicon/github.png)](https://github.com/TeloDev/Cuchaz-Ships) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/ships-mod-unofficial)
 * Smart Moving [![icon-minecraftforum](img/favicon/minecraftforum.png)](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1274224-smart-moving) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/smart-moving)
