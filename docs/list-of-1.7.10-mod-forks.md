@@ -106,6 +106,8 @@ Some of these mods don't have binaries available and have to be compiled manuall
 	* makamys fork [![icon-github](img/favicon/github.png)](https://github.com/makamys/MAtmos) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/matmos) [![icon-modrinth](img/favicon/modrinth.png)](https://modrinth.com/mod/matmos) - Fixed many bugs and added new features.
 * Mekanism [![icon-github](img/favicon/github.png)](https://github.com/mekanism/mekanism) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/mekanism)
 	* Mekanism Community Edition [![icon-github](img/favicon/github.png)](https://github.com/DrParadox7/Mekanism) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/mekanism-ce)
+* Mo' Creatures [![icon-github](img/favicon/github.png)](https://github.com/DrZhark/mocreaturesdev) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/mo-creatures)
+	* jss fork [![icon-github](img/favicon/github.png)](https://github.com/jss2a98aj/mocreaturesdev)
 * Natura [![icon-github](img/favicon/github.png)](https://github.com/progwml6/Natura) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/natura)
 	* GTNH fork [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/Natura)
 	* Rukachan fork [![icon-github](img/favicon/github.png)](https://github.com/Rukachan/Nature)
