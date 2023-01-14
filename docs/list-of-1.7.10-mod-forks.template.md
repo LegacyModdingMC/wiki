@@ -49,7 +49,7 @@ Some of these mods don't have binaries available and have to be compiled manuall
 	* jss fork {gh:https://github.com/jss2a98aj/ArsMagica2}
 		* Lost Era fork {gh:https://github.com/DrParadox7/ArsMagica2} {cf:https://www.curseforge.com/minecraft/mc-mods/ars-magica-2-le}
 		* Ars Magica 2.5 {gh:https://github.com/TCLProject/ArsMagica2-5} {mr:https://modrinth.com/mod/ars-magica-25}
-* Mine & Blade: Battlegear 2 {gh:https://github.com/Mine-and-blade-admin/Battlegear2} {cf:https://www.curseforge.com/minecraft/mc-mods/mb-battlegear-2}
+* Mine & Blade: Battlegear 2 {gh:https://github.com/Mine-and-blade-admin/Battlegear2} {cf:https://www.curseforge.com/minecraft/mc-mods/mb-battlegear-2} - A visual comparison of its forks can be found [here](https://cdn.discordapp.com/attachments/741043720761376883/1063567171847987321/image.png).
 	* The Offhand Mod {gh:https://github.com/TCLProject/theoffhandmod} {cf:https://www.curseforge.com/minecraft/mc-mods/the-offhand-mod} {mr:https://modrinth.com/mod/offhandmod} - Fork with just the dual wielding.
 		* Backhand {gh:https://github.com/c0508383/Backhand} {cf:https://www.curseforge.com/minecraft/mc-mods/backhand} {mr:https://modrinth.com/mod/backhand} - Fork with a different implementation of dual wielding that resembles modern vanilla.
 * Baubles {gh:https://github.com/Azanor/Baubles/tree/1.7.10} {cf:https://www.curseforge.com/minecraft/mc-mods/baubles}
@@ -119,7 +119,7 @@ Some of these mods don't have binaries available and have to be compiled manuall
 * Smart Moving {mcf:https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1274224-smart-moving} {cf:https://www.curseforge.com/minecraft/mc-mods/smart-moving}
 	* makamys fork {gh:https://github.com/makamys/SmartMoving}
 * Spice Of Life {cf:https://www.curseforge.com/minecraft/mc-mods/the-spice-of-life}
-	* Spice Of Life Unofficial {gh:https://github.com/GTNewHorizons/SpiceOfLife} {mr:https://modrinth.com/mod/spice-of-life-carrot-edition-unofficial}
+	* Spice Of Life - Carrot Edition - Unofficial {gh:https://github.com/GTNewHorizons/SpiceOfLife} {mr:https://modrinth.com/mod/spice-of-life-carrot-edition-unofficial}
 * Steve's Addons {gh:https://github.com/hilburn/StevesAddons} {cf:https://www.curseforge.com/minecraft/mc-mods/steves-addons}
 	* GTNH fork {gh:https://github.com/GTNewHorizons/StevesAddons}
 * Steve's Factory Manager {gh:https://github.com/Vswe/ModJam3} {cf:https://www.curseforge.com/minecraft/mc-mods/steves-factory-manager}
