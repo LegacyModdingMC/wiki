@@ -36,12 +36,19 @@ Some of these mods don't have binaries available and have to be compiled manuall
 
 * The Aether {gh:https://github.com/Gilded-Games/The-Aether-Archived} {cf:https://www.curseforge.com/minecraft/mc-mods/aether}
 	* makamys fork {gh:https://github.com/makamys/The-Aether-Archived/tree/fix-buttons-in-modded-guis} - Fixes one bug.
+* Ancient Warfare 2 {cf:https://www.curseforge.com/minecraft/mc-mods/ancient-warfare-2}
+	* Ancient Warfare 3 {mr:https://modrinth.com/mod/ancient-warfare}
+* AppleCore {gh:https://github.com/squeek502/AppleCore} {cf:https://www.curseforge.com/minecraft/mc-mods/applecore}
+	* AppleCore Unofficial {gh:https://github.com/GTNewHorizons/AppleCore} {mr:https://modrinth.com/mod/applecore-unofficial}
+* Applied Energistics 2 {cf:https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2}
+	* AE2 Unofficial Fork {gh:https://github.com/xsun2001/Applied-Energistics-2-Unofficial} - Fix somes bugs with AE2
+		* GTNH fork {gh:https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial} - Updated, preferably use instead of original AE2 Unofficial
 * Aroma1997core {cf:https://www.curseforge.com/minecraft/mc-mods/aroma1997core}
-	* aroma1997core Unofficial {gh:https://github.com/trollogyadherent/aroma1997core-unofficial} - Aroma Core without the wrench, not required on the client anymore.
+	* aroma1997core Unofficial {gh:https://github.com/trollogyadherent/aroma1997core-unofficial} - Aroma Core without the wrench so it's not required on the client anymore.
 * Ars Magica 2
 	* jss fork {gh:https://github.com/jss2a98aj/ArsMagica2}
 		* Lost Era fork {gh:https://github.com/DrParadox7/ArsMagica2} {cf:https://www.curseforge.com/minecraft/mc-mods/ars-magica-2-le}
-		* TCL fork {gh:https://github.com/TCLProject/ArsMagica2-5}
+		* Ars Magica 2.5 {gh:https://github.com/TCLProject/ArsMagica2-5} {mr:https://modrinth.com/mod/ars-magica-25}
 * Mine & Blade: Battlegear 2 {gh:https://github.com/Mine-and-blade-admin/Battlegear2} {cf:https://www.curseforge.com/minecraft/mc-mods/mb-battlegear-2}
 	* The Offhand Mod {gh:https://github.com/TCLProject/theoffhandmod} {cf:https://www.curseforge.com/minecraft/mc-mods/the-offhand-mod} {mr:https://modrinth.com/mod/offhandmod} - Fork with just the dual wielding.
 		* Backhand {gh:https://github.com/c0508383/Backhand} {cf:https://www.curseforge.com/minecraft/mc-mods/backhand} {mr:https://modrinth.com/mod/backhand} - Fork with a different implementation of dual wielding that resembles modern vanilla.
@@ -55,14 +62,19 @@ Some of these mods don't have binaries available and have to be compiled manuall
 	* GTNH fork {gh:https://github.com/GTNewHorizons/CodeChickenCore} {cf:https://www.curseforge.com/minecraft/mc-mods/codechickencore-unofficial} {mr:https://modrinth.com/mod/codechickencore-unofficial}
 * CodeChickenLib {gh:https://github.com/Chicken-Bones/CodeChickenLib} {cf:https://www.curseforge.com/minecraft/mc-mods/codechickenlib}
 	* GTNH fork {gh:https://github.com/GTNewHorizons/CodeChickenLib} {cf:https://www.curseforge.com/minecraft/mc-mods/codechickenlib-unofficial} {mr:https://modrinth.com/mod/codechickenlib-unofficial}
+* CraftPresence {gl:https://gitlab.com/CDAGaming/CraftPresence} {cf:https://www.curseforge.com/minecraft/mc-mods/craftpresence} {mr:https://modrinth.com/mod/craftpresence}
+	* GTNH fork {gh:https://github.com/GTNewHorizons/CraftPresence} - Fix some bugs but not upstream with original mod
 * CustomMOTD {cf:https://www.curseforge.com/minecraft/mc-mods/p455w0rds-motd-customizer}
 	* Custom MOTD NoClient {gh:https://github.com/trollogyadherent/CustomMotd_1.7.10_fork} - Removed client requirements and backported player list feature.
 * Cutting Edge {gh:https://github.com/TTFTCUTS/CuttingEdge} {cf:https://www.curseforge.com/minecraft/mc-mods/cutting-edge}
 	* jss fork {gh:https://github.com/jss2a98aj/CuttingEdge} - needs [jss's Baubles fork](https://github.com/jss2a98aj/Baubles)
 * Dragon Mounts {gh:https://github.com/ata4/dragon-mounts} 
 	* jss fork {gh:https://github.com/jss2a98aj/dragon-mounts/commits/1.7}
-* Electrical Age {electricalage:https://electrical-age.net/} {gh:https://github.com/Electrical-Age/ElectricalAge}
+* Electrical Age {electricalage:https://electrical-age.net/} {gh:https://github.com/Electrical-Age/ElectricalAge} {cf:https://www.curseforge.com/minecraft/mc-mods/electrical-age}
 	* jrddunbr fork {gh:https://github.com/age-series/ElectricalAge} {mr:https://modrinth.com/mod/electrical-age-jrddunbr-edition}
+* Ender IO {gh:https://www.curseforge.com/minecraft/mc-mods/ender-io} {cf:https://www.curseforge.com/minecraft/mc-mods/ender-io}
+	* GTNH fork {gh:https://github.com/GTNewHorizons/EnderIO} - Most updated fork.
+	* EnderIO Unofficial {gh:https://github.com/Zokonius/EnderIO} {cf:https://www.curseforge.com/minecraft/mc-mods/enderio-unofficial}
 * EnviroMine {gh:https://github.com/EnviroMine/EnviroMine-1.7} {cf:https://www.curseforge.com/minecraft/mc-mods/enviromine}
 	* EnviroMine for Galaxy Odyssey {gl:https://gitgud.io/AstroTibs/enviromine-for-galaxy-odyssey} {cf:https://www.curseforge.com/minecraft/mc-mods/enviromine-for-galaxy-odyssey} {mr:https://modrinth.com/mod/enviromine-for-galaxy-odyssey}
 	* Envirorot {gh:https://github.com/dylanlogan2581/envirorot} {cf:https://www.curseforge.com/minecraft/mc-mods/envirorot} - Enviromine with just the food rot.
@@ -101,18 +113,30 @@ Some of these mods don't have binaries available and have to be compiled manuall
 * QwerTech {gh:https://github.com/Qwertygiy/qwertech} {cf:https://www.curseforge.com/minecraft/mc-mods/qwertech}
 	* Yog fork {gh:https://github.com/Yoghurt4C/qwertech/tree/webedit-1}
 * Schematica {gh:https://github.com/Lunatrius/Schematica} {cf:https://www.curseforge.com/minecraft/mc-mods/schematica}
-	* GTNH fork {gh:https://github.com/GTNewHorizons/Schematica} - Has coordinate saving and a few other QoL changes that are not GTNH-specific. Requires GTNH's LunatriusCore fork.
+	* GTNH fork {gh:https://github.com/GTNewHorizons/Schematica} - Has coordinate saving and a few other QoL changes that are not GTNH-specific. Requires [GTNH's LunatriusCore fork](https://github.com/GTNewHorizons/LunatriusCore).
 * Ships Mod {cf:https://www.curseforge.com/minecraft/mc-mods/ships-mod}
-	* Telomerase fork {gh:https://github.com/TeloDev/Cuchaz-Ships} {cf:https://www.curseforge.com/minecraft/mc-mods/ships-mod-unofficial}
+	* Cuchaz Ships Unofficial {gh:https://github.com/TeloDev/Cuchaz-Ships} {cf:https://www.curseforge.com/minecraft/mc-mods/ships-mod-unofficial}
 * Smart Moving {mcf:https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1274224-smart-moving} {cf:https://www.curseforge.com/minecraft/mc-mods/smart-moving}
 	* makamys fork {gh:https://github.com/makamys/SmartMoving}
+* Spice Of Life {cf:https://www.curseforge.com/minecraft/mc-mods/the-spice-of-life}
+	* Spice Of Life Unofficial {gh:https://github.com/GTNewHorizons/SpiceOfLife} {mr:https://modrinth.com/mod/spice-of-life-carrot-edition-unofficial}
 * Steve's Addons {gh:https://github.com/hilburn/StevesAddons} {cf:https://www.curseforge.com/minecraft/mc-mods/steves-addons}
 	* GTNH fork {gh:https://github.com/GTNewHorizons/StevesAddons}
 * Steve's Factory Manager {gh:https://github.com/Vswe/ModJam3} {cf:https://www.curseforge.com/minecraft/mc-mods/steves-factory-manager}
 	* GTNH fork {gh:https://github.com/GTNewHorizons/Steve-s-Factory-Manager}
+* Thaumic Exploration {gh:https://github.com/KatrinaAS/Thaumic_Exploration} {cf:https://www.curseforge.com/minecraft/mc-mods/thaumic-exploration}
+	* GTNH fork {gh:https://github.com/GTNewHorizons/Thaumic_Exploration} - Updated often
+	* KryptonCaptain fork {gh:https://github.com/KryptonCaptain/Thaumic_Exploration}
+* Thaumic Tinkerer {gh:https://github.com/Thaumic-Tinkerer} {cf:https://www.curseforge.com/minecraft/mc-mods/thaumic-tinkerer}
+	* GTNH fork {gh:https://github.com/GTNewHorizons/ThaumicTinkerer} - Probably won't work unless you use GTNH mods, updated often
+		* DrParadox fork {gh:https://github.com/DrParadox7/ThaumicTinkerer} - Make it able to run outside of GTNH packs
+			* Jerome226 fork {gh:https://github.com/Jerome226/ThaumicTinkerer} - Make it able to run without AE2
+	* KryptonCaptain fork {gh:https://github.com/KryptonCaptain/ThaumicTinkerer}
 * Twilight Forest {gh:https://github.com/TeamTwilight/twilightforest} {cf:https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest}
 	* jss fork {gh:https://github.com/jss2a98aj/twilightforest}
 		* GTNH fork {gh:https://github.com/GTNewHorizons/twilightforest}
+* Waila {cf:https://www.curseforge.com/minecraft/mc-mods/waila}
+	* GTNH fork {gh:https://github.com/GTNewHorizons/waila} - Fixed the annoying keybind bug.
 * WTFCaveBiomes {gh:https://github.com/WhiskyTangoFawks/WTFCavebiomes} {cf:https://www.curseforge.com/minecraft/mc-mods/wtfs-expedition-cavebiomes-ores-trees-and-tweaks}
 	* makamys fork {gh:https://github.com/makamys/WTFCavebiomes} - Fixed a bug, restored missing source code.
 
