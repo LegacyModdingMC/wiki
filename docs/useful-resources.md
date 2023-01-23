@@ -19,9 +19,10 @@ Collections of development resources similiar to this page.
 
 ## Javadoc
 
-* [https://skmedix.github.io/ForgeJavaDocs/](https://skmedix.github.io/ForgeJavaDocs/)
-* [https://github.juanmuscaria.com/DocsMC/](https://github.juanmuscaria.com/DocsMC/)
-* [https://makamys.github.io/MCJavadoc/](https://makamys.github.io/MCJavadoc/)
+* [https://github.juanmuscaria.com/DocsMC/](https://github.juanmuscaria.com/DocsMC/) - (1.7.10)
+* [https://makamys.github.io/MCJavadoc/](https://makamys.github.io/MCJavadoc/) - (1.7.10)
+* [https://skmedix.github.io/ForgeJavaDocs/](https://skmedix.github.io/ForgeJavaDocs/) - (1.7.10 ~ 1.12.2)
+* [https://nekoyue.github.io/ForgeJavaDocs-NG/](https://nekoyue.github.io/ForgeJavaDocs-NG/) - (1.12.2 ~)
 
 ## Tools
 
