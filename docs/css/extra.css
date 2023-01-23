@@ -47,23 +47,23 @@ blockquote {
 */
 
 .wm-toc-repo {
-	display: none;
+    display: none;
 }
 
 .wm-toc-pane > .wm-toctree > .wm-toc-li a:before {
-	display: inline-block;
-	background-size: cover;
-	width: 1.3em;
-	height: 1.3em;
-	margin-right: 4px;
-	vertical-align: middle;
-	transform: translate(0px, -0.15em);
+    display: inline-block;
+    background-size: cover;
+    width: 1.3em;
+    height: 1.3em;
+    margin-right: 4px;
+    vertical-align: middle;
+    transform: translate(0px, -0.15em);
 }
 
 .wm-toc-pane > .wm-toctree > .wm-toc-li:nth-child(1) a:before { content: "";
-	background-image: url("../img/favicon-svg/github.svg");
+    background-image: url("../img/favicon-svg/github.svg");
 }
 
 .wm-toc-pane > .wm-toctree > .wm-toc-li:nth-child(2) a:before { content: "";
-	background-image: url("../img/favicon-svg/discord.svg");
+    background-image: url("../img/favicon-svg/discord.svg");
 }
