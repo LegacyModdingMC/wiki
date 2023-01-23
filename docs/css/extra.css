@@ -1,3 +1,5 @@
+/* Tweak style to be more GitHub-like */
+
 h1 {
     font-size: 32px;
 }
@@ -37,4 +39,31 @@ blockquote {
     background: none;
     border: none;
     padding: 1px;
+}
+
+/* Hide the repo link mkdocs puts in the sidebar, and use CSS trickery to insert
+   favicons before the links.
+   Inspired by https://git.sleeping.town/unascribed/YttrWiki/src/commit/028e5b2610c6122047440ad54cbea2bf653f0add/src/css/yttr.css#L149-L206 
+*/
+
+.wm-toc-repo {
+	display: none;
+}
+
+.wm-toc-pane > .wm-toctree > .wm-toc-li a:before {
+	display: inline-block;
+	background-size: cover;
+	width: 1.3em;
+	height: 1.3em;
+	margin-right: 4px;
+	vertical-align: middle;
+	transform: translate(0px, -0.15em);
+}
+
+.wm-toc-pane > .wm-toctree > .wm-toc-li:nth-child(1) a:before { content: "";
+	background-image: url("../img/favicon-svg/github.svg");
+}
+
+.wm-toc-pane > .wm-toctree > .wm-toc-li:nth-child(2) a:before { content: "";
+	background-image: url("../img/favicon-svg/discord.svg");
 }
