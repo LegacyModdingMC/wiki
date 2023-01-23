@@ -6,7 +6,11 @@ The wiki can be browsed **[here](https://legacymoddingmc.github.io/wiki/)**.
 
 It's possible to contribute by simply editing the markdown files in the `docs` directory. The index page is at [docs/index.md](docs/index.md).
 
-However, to test changes, it may be desirable to set up a local mkdocs server:
+Some files are generated from templates. These have a corresponding `.template.md` file. Do not edit the generated files directly. Edit the template file, and run `python3 build.py` to regenerate the output files before committing.
+
+### Testing
+
+To test changes, it may be desirable to set up a local mkdocs server:
 
 ```
 pip install mkdocs mkdocs-windmill
