@@ -1,4 +1,4 @@
-# Comparison of 1.7.10 Mixin loaders
+# Comparison of 1.7.10 Mixin Loaders
 
 |   | [SpongeMixins](https://github.com/GTNewHorizons/SpongeMixins) | [Grimoire](https://github.com/Aizistral-Studios/Grimoire) | [MBL](https://github.com/tox1cozZ/mixin-booter-legacy) | [GasStation](https://github.com/FalsePattern/GasStation) | [GTNHMixins](https://github.com/GTNewHorizons/GTNHMixins) | [GTNHMixinsLite](https://github.com/makamys/GTNHMixinsLite) |
 | -- | -- | -- | -- | -- | -- | -- |
