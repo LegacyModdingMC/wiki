@@ -14,7 +14,7 @@
 | MixinExtras <br>(`io.github.tox1cozz.mixinextras`) | | | ✅ | | | |
 | MixinExtras <br>(`com.gtnewhorizon.mixinextras`) | | | | | ✅ | ✅ |
 | GTNHMixins extras <sup>[5]</sup> | | | | | ✅ | ✅ |
-| Mixingasm <sup>[6]</sup> | | | | ✅ | |
+| Mixingasm <sup>[6]</sup> <sup>[SEP]</sup> | | | | ✅ | |
 
 ### Legend
 
