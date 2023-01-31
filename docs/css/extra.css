@@ -67,3 +67,8 @@ blockquote {
 .wm-toc-pane > .wm-toctree > .wm-toc-li:nth-child(2) a:before { content: "";
     background-image: url("../img/favicon-svg/discord.svg");
 }
+
+.wm-page-content {
+	/* Increase width so comparison-of-1.7.10-mixin-loaders.md can fit */
+	max-width: 1000px;
+}
