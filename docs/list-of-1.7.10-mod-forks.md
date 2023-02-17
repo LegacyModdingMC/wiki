@@ -25,6 +25,7 @@ gl: gitlab.com
 gregtech: gregtech.overminddl1.com
 mcf: minecraftforum.net
 mr: modrinth.com
+mujp: forum.minecraftuser.jp
 -->
 
 # List of 1.7.10 Mod Forks
@@ -97,6 +98,11 @@ Some of these mods don't have binaries available and have to be compiled manuall
 	* Hives Refreshed [![icon-github](img/favicon/github.png)](https://github.com/trollogyadherent/mob-hives-refreshed) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/hives-refreshed) [![icon-modrinth](img/favicon/modrinth.png)](https://modrinth.com/mod/mobhives)
 * JustAnotherSpawner [![icon-github](img/favicon/github.png)](https://github.com/ProjectZulu/JustAnotherSpawner) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/just-another-spawner) 
 	* makamys fork [![icon-github](img/favicon/github.png)](https://github.com/makamys/JustAnotherSpawner) - Fixes one bug.
+* littleMaidMob [![icon-minecraftforum](img/favicon/minecraftforum.png)](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1287042-1-7-10-1-8-littlemaidmob-final-versions-updated)
+	* littleMaidMobX [![icon-minecraftuserjp](img/favicon/minecraftuserjp.png)](https://web.archive.org/web/20181113082356/http://forum.minecraftuser.jp/viewtopic.php?f=13&t=23347)
+		* nidefawl fork [![icon-github](img/favicon/github.png)](https://github.com/nidefawl/littleMaidMobX)
+			* littleMaidMobEnhanced [![icon-github](img/favicon/github.png)](https://github.com/Goujer/LittleMaidMobEnhanced) - Fixes incompatibility with Mixin. [<sup>[*]</sup>](https://github.com/makamys/MAtmos/issues/12)
+		* littleMaidMobAX [![icon-github](img/favicon/github.png)](https://github.com/asiekierka/littleMaidMobX) - Not recommended for use, but the repo's wiki has some documentation.
 * LunatriusCore [![icon-github](img/favicon/github.png)](https://github.com/Lunatrius/LunatriusCore) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/lunatriuscore)
 	* GTNH fork [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/LunatriusCore)
 * MAtmos [![icon-github](img/favicon/github.png)](https://github.com/Sollace/MAtmos)

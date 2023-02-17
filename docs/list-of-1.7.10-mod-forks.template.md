@@ -21,6 +21,7 @@ gl: gitlab.com
 gregtech: gregtech.overminddl1.com
 mcf: minecraftforum.net
 mr: modrinth.com
+mujp: forum.minecraftuser.jp
 -->
 
 # List of 1.7.10 Mod Forks
@@ -93,6 +94,11 @@ Some of these mods don't have binaries available and have to be compiled manuall
 	* Hives Refreshed {gh:https://github.com/trollogyadherent/mob-hives-refreshed} {cf:https://www.curseforge.com/minecraft/mc-mods/hives-refreshed} {mr:https://modrinth.com/mod/mobhives}
 * JustAnotherSpawner {gh:https://github.com/ProjectZulu/JustAnotherSpawner} {cf:https://www.curseforge.com/minecraft/mc-mods/just-another-spawner} 
 	* makamys fork {gh:https://github.com/makamys/JustAnotherSpawner} - Fixes one bug.
+* littleMaidMob {mcf:https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1287042-1-7-10-1-8-littlemaidmob-final-versions-updated}
+	* littleMaidMobX {mujp:https://web.archive.org/web/20181113082356/http://forum.minecraftuser.jp/viewtopic.php?f=13&t=23347}
+		* nidefawl fork {gh:https://github.com/nidefawl/littleMaidMobX}
+			* littleMaidMobEnhanced {gh:https://github.com/Goujer/LittleMaidMobEnhanced} - Fixes incompatibility with Mixin. [<sup>[*]</sup>](https://github.com/makamys/MAtmos/issues/12)
+		* littleMaidMobAX {gh:https://github.com/asiekierka/littleMaidMobX} - Not recommended for use, but the repo's wiki has some documentation.
 * LunatriusCore {gh:https://github.com/Lunatrius/LunatriusCore} {cf:https://www.curseforge.com/minecraft/mc-mods/lunatriuscore}
 	* GTNH fork {gh:https://github.com/GTNewHorizons/LunatriusCore}
 * MAtmos {gh:https://github.com/Sollace/MAtmos}

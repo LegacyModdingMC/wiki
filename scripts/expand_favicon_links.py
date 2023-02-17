@@ -30,6 +30,7 @@ def convert(inFile, outFile):
         "mcf": "minecraftforum",
         "bb": "bitbucket",
         "gl": "gitlab",
+        "mujp": "minecraftuserjp",
     }
 
     text = open(inFile, "r", encoding="utf8").read()

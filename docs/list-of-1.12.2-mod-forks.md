@@ -25,6 +25,7 @@ gl: gitlab.com
 gregtech: gregtech.overminddl1.com
 mcf: minecraftforum.net
 mr: modrinth.com
+mujp: forum.minecraftuser.jp
 -->
 
 # List of 1.12.2 Mod Forks
