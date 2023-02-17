@@ -8,4 +8,4 @@ Welcome to the Legacy Modding wiki. This wiki aims to be a comprehensive resourc
 
 | Getting started | Advanced | Concepts | Lists |
 | --- | --- | --- | --- |
-| [Forge Workspace Setup](forge-workspace-setup.md)<br>[Tutorials](tutorials.md) | [Coremodding](coremodding.md) | [Minecraft Forge](minecraft-forge.md)<br>[ForgeGradle](forgegradle.md) | [Useful Resources](useful-resources.md)<br>[List of Mod Forks](list-of-mod-forks.md)<br>[Comparison of 1.7.10 Mixin Loaders](comparison-of-1.7.10-mixin-loaders.md) |
+| [Forge Workspace Setup](forge-workspace-setup.md)<br>[Tutorials](tutorials.md) | [Coremodding](coremodding.md) | [Minecraft Forge](minecraft-forge.md)<br>[Gradle Plugins](gradle-plugins.md) | [Useful Resources](useful-resources.md)<br>[List of Mod Forks](list-of-mod-forks.md)<br>[Comparison of 1.7.10 Mixin Loaders](comparison-of-1.7.10-mixin-loaders.md) |
