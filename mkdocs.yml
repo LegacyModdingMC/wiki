@@ -1,5 +1,7 @@
 site_name: Legacy Modding Wiki
-theme: windmill
+theme:
+ name: windmill
+ custom_dir: overrides
 nav:
   - GitHub: https://github.com/LegacyModdingMC/wiki
   - Discord: https://discord.gg/AJxEFs6YBN
