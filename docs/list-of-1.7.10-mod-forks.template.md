@@ -104,7 +104,8 @@ Some of these mods don't have binaries available and have to be compiled manuall
 * MAtmos {gh:https://github.com/Sollace/MAtmos}
 	* makamys fork {gh:https://github.com/makamys/MAtmos} {cf:https://www.curseforge.com/minecraft/mc-mods/matmos} {mr:https://modrinth.com/mod/matmos} - Fixed many bugs and added new features.
 * Mekanism {gh:https://github.com/mekanism/mekanism} {cf:https://www.curseforge.com/minecraft/mc-mods/mekanism}
-	* Mekanism Community Edition {gh:https://github.com/DrParadox7/Mekanism} {cf:https://www.curseforge.com/minecraft/mc-mods/mekanism-ce}
+	* Mekanism 1.7.10 Community Edition {gh:https://github.com/Thorfusion/Mekanism-Community-Edition} {cf:https://www.curseforge.com/minecraft/mc-mods/mekanism-ce} {mr:https://modrinth.com/mod/mekanism-1.7.10-community-edition}
+	* Mekanism 1.12.2 Community Edition {gh:https://github.com/Thorfusion/Mekanism-Community-Edition/tree/1.12.2} {cf:https://www.curseforge.com/minecraft/mc-mods/mekanism-1-12-2-ce} {mr:https://modrinth.com/mod/mekanism-1.12.2-community-edition}
 * Mo' Creatures {gh:https://github.com/DrZhark/mocreaturesdev} {cf:https://www.curseforge.com/minecraft/mc-mods/mo-creatures}
 	* jss fork {gh:https://github.com/jss2a98aj/mocreaturesdev}
 * Natura {gh:https://github.com/progwml6/Natura} {cf:https://www.curseforge.com/minecraft/mc-mods/natura}
