@@ -1,7 +1,7 @@
 site_name: Legacy Modding Wiki
-theme:
- name: windmill
- custom_dir: overrides
+#theme:
+# name: windmill
+# custom_dir: overrides
 nav:
   - GitHub: https://github.com/LegacyModdingMC/wiki
   - Discord: https://discord.gg/AJxEFs6YBN
@@ -9,5 +9,5 @@ copyright: Content is available <a href="https://creativecommons.org/licenses/by
 site_description: Wiki about developing mods for legacy versions of Minecraft, such as 1.7.10.
 repo_url: 'https://github.com/LegacyModdingMC/wiki'
 edit_uri_template: 'blob/master/docs/{path_noext}.md'
-extra_css:
-  - css/extra.css?2023-01-31
+#extra_css:
+#  - css/extra.css?2023-01-31
