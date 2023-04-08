@@ -80,6 +80,8 @@ Some of these mods don't have binaries available and have to be compiled manuall
 	* Et Futurum Requiem {gh:https://github.com/Roadhog360/Et-Futurum-Requiem} {cf:https://www.curseforge.com/minecraft/mc-mods/et-futurum-requiem} {mr:https://modrinth.com/mod/etfuturum} - Massive continuation project.
 * ExtraBiomesXL {gh:https://github.com/ExtrabiomesXL/ExtrabiomesXL} {cf:https://www.curseforge.com/minecraft/mc-mods/extrabiomesxl}
 	* jss fork {gh:https://github.com/jss2a98aj/ExtrabiomesXL}
+* Gilded Games Util {gh:https://github.com/gildedgames/gilded-games-util/tree/1.7iochanges} {cf:https://www.curseforge.com/minecraft/mc-mods/gilded-games-util}
+	* Gilded Games Util - Fix {cf:https://www.curseforge.com/minecraft/mc-mods/gilded-game-utils-fix} - Removed threaded lighting which is incompatible with several mods (e.g. FastCraft, ArchaicFix, Et Futurum Requiem)
 * GregGen {gh:https://github.com/SuperCoder7979/greggen}
 	* Dbp fork {gh:https://github.com/neo-engineers/greggen} {cb:https://codeberg.org/PureMC/greggen} - Removes unnecessary GT6 dependency.
 * GTNHMixins {gh:https://github.com/GTNewHorizons/GTNHMixins} {cf:https://www.curseforge.com/minecraft/mc-mods/gtnhmixins} {mr:https://modrinth.com/mod/gtnhmixins}
