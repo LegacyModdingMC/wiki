@@ -1,6 +1,6 @@
 site_name: Legacy Modding Wiki
 theme:
- name: windmill
+ name: mkdocs
  custom_dir: overrides
 nav:
   - GitHub: https://github.com/LegacyModdingMC/wiki
@@ -11,4 +11,4 @@ site_url: https://legacymoddingmc.github.io/wiki/
 repo_url: 'https://github.com/LegacyModdingMC/wiki'
 edit_uri_template: 'blob/master/docs/{path_noext}.md'
 extra_css:
-  - css/extra.css?2023-01-31
+  - css/extra-default.css?2023-04-08
