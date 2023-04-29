@@ -162,6 +162,8 @@ Forks where the original version was not for 1.7.10.
 	* Lag Goggles Legacy {gh:https://github.com/FalsePattern/LagGogglesLegacy} {mr:https://modrinth.com/mod/lglegacy} - Backport.
 * Metaworlds {bb:https://bitbucket.org/MMM_MasterM/metaworldsgradle/src/master/} {cf:https://www.curseforge.com/minecraft/mc-mods/metaworlds-mod}
 	* Metaworlds Unofficial {cf:https://www.curseforge.com/minecraft/mc-mods/metaworlds-unofficial} {mr:https://modrinth.com/mod/metaworldsunofficial} - Forwardport.
+* Nutrition {gh:https://github.com/WesCook/Nutrition}
+	* GTNH fork {gh:https://github.com/GTNewHorizons/Nutrition} - Backport.
 * Serene Seasons {cf:https://www.curseforge.com/minecraft/mc-mods/serene-seasons}
 	* DarkShadow44 fork {gh:https://github.com/DarkShadow44/SereneSeasons} {cf:https://www.curseforge.com/minecraft/mc-mods/serene-seasons} - Backport (includes SereneTweaks). The 1.7.10 version is no longer updated on CurseForge; check the GitHub repository for the newest fixes.
 * Super	Sound Muffler {gh:https://github.com/EdgarAllen/SuperSoundMuffler}
