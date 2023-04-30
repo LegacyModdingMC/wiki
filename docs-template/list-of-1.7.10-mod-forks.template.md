@@ -28,7 +28,7 @@ mujp: forum.minecraftuser.jp
 
 Some of these mods don't have binaries available and have to be compiled manually. See [Troubleshooting 1.7.10 Build Scripts](troubleshooting-1.7.10-build-scripts.md) for help with that.
 
-[GTNH](https://github.com/GTNewHorizons) and [GTMEGA](https://github.com/GTMEGA) maintain many forks not on this list. (TODO: add all of them which change more than just the build script)
+[GTNH](https://github.com/GTNewHorizons) (who have an official mod table [here](https://docs.google.com/spreadsheets/d/1LHd8c4FLLHiJqsuTppF2XFTE6bh-mXE7afVwGbzOKms/edit#gid=0)) and [GTMEGA](https://github.com/GTMEGA) maintain many forks not on this list. <sub>(TODO: add all of them which change more than just the build script)</sub>
 
 ## Forks
 
