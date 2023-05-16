@@ -151,20 +151,20 @@ Some of these mods don't have binaries available and have to be compiled manuall
 
 Forks where the original version was not for 1.7.10.
 
-* Dimensional Doors {gh:https://github.com/StevenRS11/DimDoors}
+* Dimensional Doors [1.6.4] {gh:https://github.com/StevenRS11/DimDoors}
 	* CannibalVox fork {gh:https://github.com/CannibalVox/DimDoors} - Forwardport.
 		* embeddedt fork {gh:https://github.com/embeddedt/DimensionalDoors-1.7.10}
-* Eyes in the Darkness {gh:https://github.com/gigaherz/EyesInTheDarkness} {cf:https://www.curseforge.com/minecraft/mc-mods/eyes-in-the-darkness}
+* Eyes in the Darkness [1.12.2+] {gh:https://github.com/gigaherz/EyesInTheDarkness} {cf:https://www.curseforge.com/minecraft/mc-mods/eyes-in-the-darkness}
 	* Eyes in the Shadows {gh:https://github.com/trollogyadherent/EyesInTheShadows} - Backport.
-* GregTech 4 {gregtech:https://gregtech.overminddl1.com/1.6.2/index.html}
+* GregTech 4 [1.6.2] {gregtech:https://gregtech.overminddl1.com/1.6.2/index.html}
 	* Nukepowered fork {gh:https://github.com/Nukepowered/GregTech4} {cf:https://www.curseforge.com/minecraft/mc-mods/gregtech-4} - Forwardport.
-* Lag Goggles {gh:https://github.com/TerminatorNL/LagGoggles} {cf:https://www.curseforge.com/minecraft/mc-mods/laggoggles}
+* Lag Goggles [1.10.2+] {gh:https://github.com/TerminatorNL/LagGoggles} {cf:https://www.curseforge.com/minecraft/mc-mods/laggoggles}
 	* Lag Goggles Legacy {gh:https://github.com/FalsePattern/LagGogglesLegacy} {mr:https://modrinth.com/mod/lglegacy} - Backport.
-* Metaworlds {bb:https://bitbucket.org/MMM_MasterM/metaworldsgradle/src/master/} {cf:https://www.curseforge.com/minecraft/mc-mods/metaworlds-mod}
+* Metaworlds [1.7.2] {bb:https://bitbucket.org/MMM_MasterM/metaworldsgradle/src/master/} {cf:https://www.curseforge.com/minecraft/mc-mods/metaworlds-mod}
 	* Metaworlds Unofficial {cf:https://www.curseforge.com/minecraft/mc-mods/metaworlds-unofficial} {mr:https://modrinth.com/mod/metaworldsunofficial} - Forwardport.
-* Nutrition {gh:https://github.com/WesCook/Nutrition}
+* Nutrition [1.10.2+] {gh:https://github.com/WesCook/Nutrition}
 	* GTNH fork {gh:https://github.com/GTNewHorizons/Nutrition} - Backport.
-* Serene Seasons {cf:https://www.curseforge.com/minecraft/mc-mods/serene-seasons}
+* Serene Seasons [1.12.2+] {cf:https://www.curseforge.com/minecraft/mc-mods/serene-seasons}
 	* DarkShadow44 fork {gh:https://github.com/DarkShadow44/SereneSeasons} {cf:https://www.curseforge.com/minecraft/mc-mods/serene-seasons} - Backport (includes SereneTweaks). The 1.7.10 version is no longer updated on CurseForge; check the GitHub repository for the newest fixes.
-* Super	Sound Muffler {gh:https://github.com/EdgarAllen/SuperSoundMuffler}
+* Super Sound Muffler [1.10.2+] {gh:https://github.com/EdgarAllen/SuperSoundMuffler}
 	* Super Sound Muffler Legacy {gh:https://github.com/FalsePattern/SuperSoundMuffler-Legacy} {mr:https://modrinth.com/mod/ssmlegacy} - Backport.

@@ -155,20 +155,20 @@ Some of these mods don't have binaries available and have to be compiled manuall
 
 Forks where the original version was not for 1.7.10.
 
-* Dimensional Doors [![icon-github](img/favicon/github.png)](https://github.com/StevenRS11/DimDoors)
+* Dimensional Doors [1.6.4] [![icon-github](img/favicon/github.png)](https://github.com/StevenRS11/DimDoors)
 	* CannibalVox fork [![icon-github](img/favicon/github.png)](https://github.com/CannibalVox/DimDoors) - Forwardport.
 		* embeddedt fork [![icon-github](img/favicon/github.png)](https://github.com/embeddedt/DimensionalDoors-1.7.10)
-* Eyes in the Darkness [![icon-github](img/favicon/github.png)](https://github.com/gigaherz/EyesInTheDarkness) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/eyes-in-the-darkness)
+* Eyes in the Darkness [1.12.2+] [![icon-github](img/favicon/github.png)](https://github.com/gigaherz/EyesInTheDarkness) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/eyes-in-the-darkness)
 	* Eyes in the Shadows [![icon-github](img/favicon/github.png)](https://github.com/trollogyadherent/EyesInTheShadows) - Backport.
-* GregTech 4 [![icon-gregtech](img/favicon/gregtech.png)](https://gregtech.overminddl1.com/1.6.2/index.html)
+* GregTech 4 [1.6.2] [![icon-gregtech](img/favicon/gregtech.png)](https://gregtech.overminddl1.com/1.6.2/index.html)
 	* Nukepowered fork [![icon-github](img/favicon/github.png)](https://github.com/Nukepowered/GregTech4) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/gregtech-4) - Forwardport.
-* Lag Goggles [![icon-github](img/favicon/github.png)](https://github.com/TerminatorNL/LagGoggles) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/laggoggles)
+* Lag Goggles [1.10.2+] [![icon-github](img/favicon/github.png)](https://github.com/TerminatorNL/LagGoggles) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/laggoggles)
 	* Lag Goggles Legacy [![icon-github](img/favicon/github.png)](https://github.com/FalsePattern/LagGogglesLegacy) [![icon-modrinth](img/favicon/modrinth.png)](https://modrinth.com/mod/lglegacy) - Backport.
-* Metaworlds [![icon-bitbucket](img/favicon/bitbucket.png)](https://bitbucket.org/MMM_MasterM/metaworldsgradle/src/master/) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/metaworlds-mod)
+* Metaworlds [1.7.2] [![icon-bitbucket](img/favicon/bitbucket.png)](https://bitbucket.org/MMM_MasterM/metaworldsgradle/src/master/) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/metaworlds-mod)
 	* Metaworlds Unofficial [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/metaworlds-unofficial) [![icon-modrinth](img/favicon/modrinth.png)](https://modrinth.com/mod/metaworldsunofficial) - Forwardport.
-* Nutrition [![icon-github](img/favicon/github.png)](https://github.com/WesCook/Nutrition)
+* Nutrition [1.10.2+] [![icon-github](img/favicon/github.png)](https://github.com/WesCook/Nutrition)
 	* GTNH fork [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/Nutrition) - Backport.
-* Serene Seasons [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)
+* Serene Seasons [1.12.2+] [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)
 	* DarkShadow44 fork [![icon-github](img/favicon/github.png)](https://github.com/DarkShadow44/SereneSeasons) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/serene-seasons) - Backport (includes SereneTweaks). The 1.7.10 version is no longer updated on CurseForge; check the GitHub repository for the newest fixes.
-* Super	Sound Muffler [![icon-github](img/favicon/github.png)](https://github.com/EdgarAllen/SuperSoundMuffler)
+* Super Sound Muffler [1.10.2+] [![icon-github](img/favicon/github.png)](https://github.com/EdgarAllen/SuperSoundMuffler)
 	* Super Sound Muffler Legacy [![icon-github](img/favicon/github.png)](https://github.com/FalsePattern/SuperSoundMuffler-Legacy) [![icon-modrinth](img/favicon/modrinth.png)](https://modrinth.com/mod/ssmlegacy) - Backport.
