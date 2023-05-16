@@ -135,6 +135,8 @@ Some of these mods don't have binaries available and have to be compiled manuall
 	* GTNH fork [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/StevesAddons)
 * Steve's Factory Manager [![icon-github](img/favicon/github.png)](https://github.com/Vswe/ModJam3) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/steves-factory-manager)
 	* GTNH fork [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/Steve-s-Factory-Manager)
+* Tabby Chat [![icon-github](img/favicon/github.png)](https://github.com/killjoy1221/tabbychat)
+	* mist475 fork [![icon-github](img/favicon/github.png)](https://github.com/mist475/tabbychat) [![icon-modrinth](img/favicon/modrinth.png)](https://modrinth.com/mod/tabbychat-unofficial)
 * Thaumic Exploration [![icon-github](img/favicon/github.png)](https://github.com/KatrinaAS/Thaumic_Exploration) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/thaumic-exploration)
 	* GTNH fork [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/Thaumic_Exploration) - Updated often
 	* KryptonCaptain fork [![icon-github](img/favicon/github.png)](https://github.com/KryptonCaptain/Thaumic_Exploration)
