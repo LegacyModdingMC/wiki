@@ -28,6 +28,12 @@ h7 {
     font-size: 13.6px;
 }
 
+h1, h2, h3, h4, h5, h6, h7 {
+    font-weight: 600 !important;
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+}
+
 blockquote {
     font-size: 14px;
     opacity: 80%;
@@ -49,6 +55,31 @@ blockquote {
 	.container {
 		max-width: 90%;
 	}
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #ffffff;
+    background-color: #211b24;
+  }
+  code {
+    color: white;
+    background-color: #343941;
+    border: none;
+  }
+  
+  h1, h2, h3, h4, h5, h6, h7 {
+      color: #ffffff;
+  }
+  
+  .bg-primary {
+      background-color: #29222D !important;
+      background-image: none !important;
+  }
+  
+  .bg-secondary {
+      background-color: #332A38 !important;
+  }
 }
 
 body::before {
