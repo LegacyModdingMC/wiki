@@ -26,6 +26,13 @@ Collections of development resources similiar to this page.
 
 ## Tools
 
+### Mappings
+
+* https://mcp.thiakil.com - Look up names in MCP mappings.
+* https://wagyourtail.xyz/Projects/MinecraftMappingViewer/App - View various mappings.
+
+### Scripts
+
 * [zip_search.py](https://gist.github.com/makamys/f279b286c8afe1b976ea18886df1cf7d) - Can be used to search all mod jars in your mod directory for strings.
 * [generate_mod_launch_args.py](https://gist.github.com/makamys/e8668436ed1780c0623c26936d0e472d) - Generates JVM and program arguments needed to launch a mod in an IDE directly, given a jar of it.
 
