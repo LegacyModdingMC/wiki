@@ -28,8 +28,8 @@ Collections of development resources similiar to this page.
 
 ### Mappings
 
-* https://mcp.thiakil.com - Look up names in MCP mappings.
-* https://wagyourtail.xyz/Projects/MinecraftMappingViewer/App - View various mappings.
+* [https://mcp.thiakil.com](https://mcp.thiakil.com) - Look up names in MCP mappings.
+* [https://wagyourtail.xyz/Projects/MinecraftMappingViewer/App](https://wagyourtail.xyz/Projects/MinecraftMappingViewer/App) - View various mappings.
 
 ### Scripts
 
