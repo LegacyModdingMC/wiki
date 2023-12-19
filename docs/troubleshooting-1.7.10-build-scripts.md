@@ -4,7 +4,7 @@ So you want to compile an old 1.7.10 mod, but Gradle is throwing some cryptic er
 
 1.7.10 was released [over 8 years ago](https://howoldisminecraft1710.today/) and has stopped receiving official support, so many old build scripts no longer work.
 
-This guide will show you how to revitalize the build script using a fork of [ForgeGradle](forgegradle.md), which has a critical issue fixed. We will be building the [GalaxyOdyssey fork of EnviroMine](https://gitgud.io/AstroTibs/enviromine-for-galaxy-odyssey) as the example mod, as it showcases various issues you can run into. Naturally, you can also use any other mod.
+This guide will show you how to revitalize the build script using a fork of [ForgeGradle](gradle-plugins.md#forgegradle), which has a critical issue fixed. We will be building the [GalaxyOdyssey fork of EnviroMine](https://gitgud.io/AstroTibs/enviromine-for-galaxy-odyssey) as the example mod, as it showcases various issues you can run into. Naturally, you can also use any other mod.
 
 # Introduction
 
@@ -143,7 +143,7 @@ buildscript {
 }
 ```
 
-**Alternatively,** you can use [any other active ForgeGradle fork](forgegradle.md#forks) that also has the issue fixed.
+**Alternatively,** you can use [any other active ForgeGradle fork](gradle-plugins.md#forgegradle) that also has the issue fixed.
 
 **Alternatively,** you don't have to do this step at all if you have already successfully run `./gradlew setupDecompWorkspace` in a mod with a working build script (such as [GTNewHorizons/ExampleMod](https://github.com/GTNewHorizons/ExampleMod1.7.10)). In this case your Gradle cache has been filled with the necessary files, and a mod using the upstream version of ForgeGradle will manage to build.
 
