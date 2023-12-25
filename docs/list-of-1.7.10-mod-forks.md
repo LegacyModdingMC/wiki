@@ -132,6 +132,7 @@ Some of these mods don't have binaries available and have to be compiled manuall
 	* makamys fork [![icon-github](img/favicon/github.png)](https://github.com/makamys/PlayerAPI)
 * QwerTech [![icon-github](img/favicon/github.png)](https://github.com/Qwertygiy/qwertech) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/qwertech)
 	* Yog fork [![icon-github](img/favicon/github.png)](https://github.com/Yoghurt4C/qwertech/tree/webedit-1)
+	* bioastroiner fork [!icon-github](img/favicon/github.png)](https://github.com/bioastroiner/qwertech)
 * Schematica [![icon-github](img/favicon/github.png)](https://github.com/Lunatrius/Schematica) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/schematica)
 	* GTNH fork [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/Schematica) - Has coordinate saving and a few other QoL changes that are not GTNH-specific. Requires [GTNH's LunatriusCore fork](https://github.com/GTNewHorizons/LunatriusCore).
 * Ships Mod [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/ships-mod)
