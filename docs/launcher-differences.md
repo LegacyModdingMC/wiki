@@ -38,7 +38,7 @@ Java runtime: Downloads 8u51 by default. A custom install can be provided.
 
 (?)
 
-Java runtime: Downloads 8u51. A custom install can **not** be provided.
+Java runtime: Downloads 8u51. A different version can be forced if a mystery CF-specific flag is set<sup>[[*](https://github.com/GTNewHorizons/Angelica/issues/82#issuecomment-1871629459)]</sup>. (The flag in question seems to be `-version:1.8+`.)<sup>[[*](https://old.reddit.com/r/feedthebeast/comments/4kq9ks/how_do_i_change_the_default_version_of_java_that/d3hiod2/)]</sup>
 
 ## Official Launcher (1.x)
 
