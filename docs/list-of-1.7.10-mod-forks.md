@@ -97,8 +97,6 @@ Some of these mods don't have binaries available and have to be compiled manuall
 	* Gilded Games Util - Fix [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/gilded-game-utils-fix) - Removed threaded lighting which is incompatible with several mods (e.g. FastCraft, ArchaicFix, Et Futurum Requiem)
 * GregGen [![icon-github](img/favicon/github.png)](https://github.com/SuperCoder7979/greggen)
 	* Dbp fork [![icon-github](img/favicon/github.png)](https://github.com/neo-engineers/greggen) [![icon-codeberg](img/favicon/codeberg.png)](https://codeberg.org/PureMC/greggen) - Removes unnecessary GT6 dependency.
-* GTNHMixins [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/GTNHMixins) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/gtnhmixins) [![icon-modrinth](img/favicon/modrinth.png)](https://modrinth.com/mod/gtnhmixins)
-	* GTNHMixinsLite [![icon-github](img/favicon/github.png)](https://github.com/makamys/GTNHMixinsLite) - Fork with just GTNH's extras, to be used in combination with other Mixin loaders.
 * Invasion Mod [![icon-github](img/favicon/github.png)](https://github.com/UnstoppableN/Invasion-mod) [![icon-minecraftforum](img/favicon/minecraftforum.png)](https://web.archive.org/web/20171226031645/https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/2235041-invasion-mod-so-you-think-your-base-is-tough)
 	* Doenerstyle fork [![icon-github](img/favicon/github.png)](https://github.com/Doenerstyle/Invasion-Mod)
 * Flan's Mod [![icon-flansmod](img/favicon/flansmod.png)](https://flansmod.com/)
