@@ -77,6 +77,8 @@ Some of these mods don't have binaries available and have to be compiled manuall
     - jss fork {gh:https://github.com/jss2a98aj/CuttingEdge} - needs [jss's Baubles fork](https://github.com/jss2a98aj/Baubles)
 - Dragon Mounts {gh:https://github.com/ata4/dragon-mounts} 
     - jss fork {gh:https://github.com/jss2a98aj/dragon-mounts/commits/1.7}
+- Dynamic Surroundings {gh:https://github.com/OreCruncher/DynamicSurroundings} {cf:https://legacy.curseforge.com/minecraft/mc-mods/dynamic-surroundings}
+    - Kris fork {gh:https://github.com/mist475/DynamicSurroundings} - Fixed LOTR compat, converted ASM to mixins.
 - Electrical Age {electricalage:https://electrical-age.net/} {gh:https://github.com/Electrical-Age/ElectricalAge} {cf:https://legacy.curseforge.com/minecraft/mc-mods/electrical-age}
     - jrddunbr fork {gh:https://github.com/age-series/ElectricalAge} {mr:https://modrinth.com/mod/electrical-age-jrddunbr-edition}
 - Ender IO {gh:https://legacy.curseforge.com/minecraft/mc-mods/ender-io} {cf:https://legacy.curseforge.com/minecraft/mc-mods/ender-io}
@@ -140,7 +142,7 @@ Some of these mods don't have binaries available and have to be compiled manuall
 - Steve's Factory Manager {gh:https://github.com/Vswe/ModJam3} {cf:https://legacy.curseforge.com/minecraft/mc-mods/steves-factory-manager}
     - GTNH fork {gh:https://github.com/GTNewHorizons/Steve-s-Factory-Manager}
 - Tabby Chat {gh:https://github.com/killjoy1221/tabbychat}
-    - mist475 fork {gh:https://github.com/mist475/tabbychat} {mr:https://modrinth.com/mod/tabbychat-unofficial}
+    - Kris fork {gh:https://github.com/mist475/tabbychat} {mr:https://modrinth.com/mod/tabbychat-unofficial}
 - Thaumic Exploration {gh:https://github.com/KatrinaAS/Thaumic_Exploration} {cf:https://legacy.curseforge.com/minecraft/mc-mods/thaumic-exploration}
     - GTNH fork {gh:https://github.com/GTNewHorizons/Thaumic_Exploration} - Updated often
     - KryptonCaptain fork {gh:https://github.com/KryptonCaptain/Thaumic_Exploration}
@@ -176,5 +178,8 @@ Forks where the original version was not for 1.7.10.
     - GTNH fork {gh:https://github.com/GTNewHorizons/Nutrition} - Backport.
 - Serene Seasons [1.12.2+] {cf:https://legacy.curseforge.com/minecraft/mc-mods/serene-seasons}
     - DarkShadow44 fork {gh:https://github.com/DarkShadow44/SereneSeasons} {cf:https://legacy.curseforge.com/minecraft/mc-mods/serene-seasons} - Backport (includes SereneTweaks). The 1.7.10 version is no longer updated on CurseForge; check the GitHub repository for the newest fixes.
+- Sound Physics [1.10+] {gh:https://github.com/sonicether/Sound-Physics} {mcf:https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/2771480-sound-physics-realistic-sound-reverberation}
+    - djpadbit fork {gh:https://github.com/djpadbit/Sound-Physics} - Backport. A build of the last 1.7.10 commit is available [here](https://github.com/djpadbit/Sound-Physics/issues/26#issuecomment-618068703).
+        - Kris fork {gh:https://github.com/mist475/Sound-Physics} - Converted ASM to mixins.
 - Super Sound Muffler [1.10.2+] {gh:https://github.com/EdgarAllen/SuperSoundMuffler}
     - Super Sound Muffler Legacy {gh:https://github.com/FalsePattern/SuperSoundMuffler-Legacy} {mr:https://modrinth.com/mod/ssmlegacy} - Backport.

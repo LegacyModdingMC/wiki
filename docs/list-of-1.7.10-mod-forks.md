@@ -81,6 +81,8 @@ Some of these mods don't have binaries available and have to be compiled manuall
     - jss fork [![icon-github](img/favicon/github.png)](https://github.com/jss2a98aj/CuttingEdge) - needs [jss's Baubles fork](https://github.com/jss2a98aj/Baubles)
 - Dragon Mounts [![icon-github](img/favicon/github.png)](https://github.com/ata4/dragon-mounts) 
     - jss fork [![icon-github](img/favicon/github.png)](https://github.com/jss2a98aj/dragon-mounts/commits/1.7)
+- Dynamic Surroundings [![icon-github](img/favicon/github.png)](https://github.com/OreCruncher/DynamicSurroundings) [![icon-curseforge](img/favicon/curseforge.png)](https://legacy.curseforge.com/minecraft/mc-mods/dynamic-surroundings)
+    - Kris fork [![icon-github](img/favicon/github.png)](https://github.com/mist475/DynamicSurroundings) - Fixed LOTR compat, converted ASM to mixins.
 - Electrical Age [![icon-electricalage](img/favicon/electricalage.png)](https://electrical-age.net/) [![icon-github](img/favicon/github.png)](https://github.com/Electrical-Age/ElectricalAge) [![icon-curseforge](img/favicon/curseforge.png)](https://legacy.curseforge.com/minecraft/mc-mods/electrical-age)
     - jrddunbr fork [![icon-github](img/favicon/github.png)](https://github.com/age-series/ElectricalAge) [![icon-modrinth](img/favicon/modrinth.png)](https://modrinth.com/mod/electrical-age-jrddunbr-edition)
 - Ender IO [![icon-github](img/favicon/github.png)](https://legacy.curseforge.com/minecraft/mc-mods/ender-io) [![icon-curseforge](img/favicon/curseforge.png)](https://legacy.curseforge.com/minecraft/mc-mods/ender-io)
@@ -144,7 +146,7 @@ Some of these mods don't have binaries available and have to be compiled manuall
 - Steve's Factory Manager [![icon-github](img/favicon/github.png)](https://github.com/Vswe/ModJam3) [![icon-curseforge](img/favicon/curseforge.png)](https://legacy.curseforge.com/minecraft/mc-mods/steves-factory-manager)
     - GTNH fork [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/Steve-s-Factory-Manager)
 - Tabby Chat [![icon-github](img/favicon/github.png)](https://github.com/killjoy1221/tabbychat)
-    - mist475 fork [![icon-github](img/favicon/github.png)](https://github.com/mist475/tabbychat) [![icon-modrinth](img/favicon/modrinth.png)](https://modrinth.com/mod/tabbychat-unofficial)
+    - Kris fork [![icon-github](img/favicon/github.png)](https://github.com/mist475/tabbychat) [![icon-modrinth](img/favicon/modrinth.png)](https://modrinth.com/mod/tabbychat-unofficial)
 - Thaumic Exploration [![icon-github](img/favicon/github.png)](https://github.com/KatrinaAS/Thaumic_Exploration) [![icon-curseforge](img/favicon/curseforge.png)](https://legacy.curseforge.com/minecraft/mc-mods/thaumic-exploration)
     - GTNH fork [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/Thaumic_Exploration) - Updated often
     - KryptonCaptain fork [![icon-github](img/favicon/github.png)](https://github.com/KryptonCaptain/Thaumic_Exploration)
@@ -180,5 +182,8 @@ Forks where the original version was not for 1.7.10.
     - GTNH fork [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/Nutrition) - Backport.
 - Serene Seasons [1.12.2+] [![icon-curseforge](img/favicon/curseforge.png)](https://legacy.curseforge.com/minecraft/mc-mods/serene-seasons)
     - DarkShadow44 fork [![icon-github](img/favicon/github.png)](https://github.com/DarkShadow44/SereneSeasons) [![icon-curseforge](img/favicon/curseforge.png)](https://legacy.curseforge.com/minecraft/mc-mods/serene-seasons) - Backport (includes SereneTweaks). The 1.7.10 version is no longer updated on CurseForge; check the GitHub repository for the newest fixes.
+- Sound Physics [1.10+] [![icon-github](img/favicon/github.png)](https://github.com/sonicether/Sound-Physics) [![icon-minecraftforum](img/favicon/minecraftforum.png)](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/2771480-sound-physics-realistic-sound-reverberation)
+    - djpadbit fork [![icon-github](img/favicon/github.png)](https://github.com/djpadbit/Sound-Physics) - Backport. A build of the last 1.7.10 commit is available [here](https://github.com/djpadbit/Sound-Physics/issues/26#issuecomment-618068703).
+        - Kris fork [![icon-github](img/favicon/github.png)](https://github.com/mist475/Sound-Physics) - Converted ASM to mixins.
 - Super Sound Muffler [1.10.2+] [![icon-github](img/favicon/github.png)](https://github.com/EdgarAllen/SuperSoundMuffler)
     - Super Sound Muffler Legacy [![icon-github](img/favicon/github.png)](https://github.com/FalsePattern/SuperSoundMuffler-Legacy) [![icon-modrinth](img/favicon/modrinth.png)](https://modrinth.com/mod/ssmlegacy) - Backport.
