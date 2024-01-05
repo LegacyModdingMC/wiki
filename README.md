@@ -13,7 +13,7 @@ Some files are generated from templates. These have a corresponding `.template.m
 To test changes, it may be desirable to set up a local mkdocs server:
 
 ```
-pip install mkdocs mkdocs-windmill
+pip install mkdocs
 mkdocs serve
 ```
 
