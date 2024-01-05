@@ -12,11 +12,11 @@ For more info about each Gradle plugin, refer to [Gradle Plugins](gradle-plugins
 
 #### ForgeGradle-based
 
-* [FalsePattern/ExampleMod1.7.10](https://github.com/FalsePattern/ExampleMod1.7.10)
-* [anatawa12/ForgeGradle-example](https://github.com/anatawa12/ForgeGradle-example)
-* [Aizistral-Studios/ForgeWorkspaceSetup](https://github.com/Aizistral-Studios/ForgeWorkspaceSetup)
+- [FalsePattern/ExampleMod1.7.10](https://github.com/FalsePattern/ExampleMod1.7.10)
+- [anatawa12/ForgeGradle-example](https://github.com/anatawa12/ForgeGradle-example)
+- [Aizistral-Studios/ForgeWorkspaceSetup](https://github.com/Aizistral-Studios/ForgeWorkspaceSetup)
 
 #### RetroFuturaGradle-based
 
-* [GTNewHorizons/ExampleMod1.7.10](https://github.com/GTNewHorizons/ExampleMod1.7.10)
-* [GTNewHorizons/RetroFuturaGradle/example](https://github.com/GTNewHorizons/RetroFuturaGradle/tree/master/example)
+- [GTNewHorizons/ExampleMod1.7.10](https://github.com/GTNewHorizons/ExampleMod1.7.10)
+- [GTNewHorizons/RetroFuturaGradle/example](https://github.com/GTNewHorizons/RetroFuturaGradle/tree/master/example)

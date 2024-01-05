@@ -32,4 +32,4 @@ mujp: forum.minecraftuser.jp
 
 ## Forks
 
-* TODO [![icon-github](img/favicon/github.png)](https://github.com/example/test)
+- TODO [![icon-github](img/favicon/github.png)](https://github.com/example/test)

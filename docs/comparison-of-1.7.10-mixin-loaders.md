@@ -18,19 +18,19 @@
 
 ### Legend
 
-* [ASM] Referenced by mods in mixin config plugins. FalsePatternLib and Unimixins:Compat automatically remap config plugins to use the existing package name. 
-* [NOP] Not actually functional (as of 2023-01-31.) <sup>[[issue]](https://github.com/FalsePattern/GasStation/issues/15)</sup>
-* [SEP] Available separately.
+- [ASM] Referenced by mods in mixin config plugins. FalsePatternLib and Unimixins:Compat automatically remap config plugins to use the existing package name. 
+- [NOP] Not actually functional (as of 2023-01-31.) <sup>[[issue]](https://github.com/FalsePattern/GasStation/issues/15)</sup>
+- [SEP] Available separately.
 
 ### Packages
 
-* [1] `ru.timeconqueror.spongemixins`
-* [2] `io.github.crucible`
-* [3] `io.github.tox1cozz.mixinbooterlegacy`
-* [4] `com.falsepattern.gasstation`
-* [5] `com.gtnewhorizon.gtnhmixins`
-* [6] `makamys.mixingasm`
+- [1] `ru.timeconqueror.spongemixins`
+- [2] `io.github.crucible`
+- [3] `io.github.tox1cozz.mixinbooterlegacy`
+- [4] `com.falsepattern.gasstation`
+- [5] `com.gtnewhorizon.gtnhmixins`
+- [6] `makamys.mixingasm`
 
 ## See also
 
-* [List of "Essential" 1.7.10 Mods ≫ Mixin mods](https://gist.github.com/makamys/7cb74cd71d93a4332d2891db2624e17c#mixin-mods)
+- [List of "Essential" 1.7.10 Mods ≫ Mixin mods](https://gist.github.com/makamys/7cb74cd71d93a4332d2891db2624e17c#mixin-mods)

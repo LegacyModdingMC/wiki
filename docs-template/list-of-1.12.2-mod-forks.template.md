@@ -28,4 +28,4 @@ mujp: forum.minecraftuser.jp
 
 ## Forks
 
-* TODO {gh:https://github.com/example/test}
+- TODO {gh:https://github.com/example/test}

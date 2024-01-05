@@ -45,140 +45,140 @@ Some of these mods don't have binaries available and have to be compiled manuall
 
 ## Forks
 
-* The Aether [![icon-github](img/favicon/github.png)](https://github.com/Gilded-Games/The-Aether-Archived) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/aether) [![icon-modrinth](img/favicon/modrinth.png)](https://modrinth.com/mod/aether)
-    * makamys fork [![icon-github](img/favicon/github.png)](https://github.com/makamys/The-Aether-Archived/tree/fix-buttons-in-modded-guis) - Fixes [one bug](https://github.com/gildedgames/aether-issues/issues/742).
-* Ancient Warfare 2 [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/ancient-warfare-2)
-    * Ancient Warfare 3 [![icon-modrinth](img/favicon/modrinth.png)](https://modrinth.com/mod/ancient-warfare)
-* AppleCore [![icon-github](img/favicon/github.png)](https://github.com/squeek502/AppleCore) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/applecore)
-    * AppleCore Unofficial [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/AppleCore) [![icon-modrinth](img/favicon/modrinth.png)](https://modrinth.com/mod/applecore-unofficial)
-* Applied Energistics 2 [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)
-    * AE2 Unofficial Fork [![icon-github](img/favicon/github.png)](https://github.com/xsun2001/Applied-Energistics-2-Unofficial) - Fix somes bugs with AE2
-        * GTNH fork [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial) - Updated, preferably use instead of original AE2 Unofficial
-* Aroma1997core [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/aroma1997core)
-    * aroma1997core Unofficial [![icon-github](img/favicon/github.png)](https://github.com/trollogyadherent/aroma1997core-unofficial) - Aroma Core without the wrench so it's not required on the client anymore.
-* Ars Magica 2
-    * jss fork [![icon-github](img/favicon/github.png)](https://github.com/jss2a98aj/ArsMagica2)
-        * Lost Era fork [![icon-github](img/favicon/github.png)](https://github.com/DrParadox7/ArsMagica2) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/ars-magica-2-le)
-        * Ars Magica 2.5 [![icon-github](img/favicon/github.png)](https://github.com/TCLProject/ArsMagica2-5) [![icon-modrinth](img/favicon/modrinth.png)](https://modrinth.com/mod/ars-magica-25)
-* Mine & Blade: Battlegear 2 [![icon-github](img/favicon/github.png)](https://github.com/Mine-and-blade-admin/Battlegear2) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/mb-battlegear-2) - A visual comparison of its forks can be found [here](https://cdn.discordapp.com/attachments/741043720761376883/1063567171847987321/image.png).
-    * The Offhand Mod [![icon-github](img/favicon/github.png)](https://github.com/TCLProject/theoffhandmod) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/the-offhand-mod) [![icon-modrinth](img/favicon/modrinth.png)](https://modrinth.com/mod/offhandmod) - Fork with just the dual wielding.
-        * Backhand [![icon-github](img/favicon/github.png)](https://github.com/c0508383/Backhand) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/backhand) [![icon-modrinth](img/favicon/modrinth.png)](https://modrinth.com/mod/backhand) - Fork with a different implementation of dual wielding that resembles modern vanilla.
-* Baubles [![icon-github](img/favicon/github.png)](https://github.com/Azanor/Baubles/tree/1.7.10) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/baubles)
-    * jss fork [![icon-github](img/favicon/github.png)](https://github.com/jss2a98aj/Baubles) - Adds API that lets mod register their own slot types.
-* Botania [![icon-github](img/favicon/github.png)](https://github.com/VazkiiMods/Botania) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/botania)
-    * GTNH fork [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/Botania)
-* BugTorch [![icon-github](img/favicon/github.png)](https://github.com/jss2a98aj/BugTorch)
-    * GTNH fork [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/BugTorch) - Requires GTNHMixins.
-* CodeChickenCore [![icon-github](img/favicon/github.png)](https://github.com/Chicken-Bones/CodeChickenCore) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/codechickencore)
-    * GTNH fork [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/CodeChickenCore) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/codechickencore-unofficial) [![icon-modrinth](img/favicon/modrinth.png)](https://modrinth.com/mod/codechickencore-unofficial)
-* CodeChickenLib [![icon-github](img/favicon/github.png)](https://github.com/Chicken-Bones/CodeChickenLib) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/codechickenlib)
-    * GTNH fork [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/CodeChickenLib) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/codechickenlib-unofficial) [![icon-modrinth](img/favicon/modrinth.png)](https://modrinth.com/mod/codechickenlib-unofficial)
-* CraftPresence [![icon-gitlab](img/favicon/gitlab.png)](https://gitlab.com/CDAGaming/CraftPresence) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/craftpresence) [![icon-modrinth](img/favicon/modrinth.png)](https://modrinth.com/mod/craftpresence)
-    * GTNH fork [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/CraftPresence) - Fix some bugs but not upstream with original mod
-* CustomMOTD [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/p455w0rds-motd-customizer)
-    * Custom MOTD NoClient [![icon-github](img/favicon/github.png)](https://github.com/trollogyadherent/CustomMotd_1.7.10_fork) - Removed client requirements and backported player list feature.
-* Cutting Edge [![icon-github](img/favicon/github.png)](https://github.com/TTFTCUTS/CuttingEdge) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/cutting-edge)
-    * jss fork [![icon-github](img/favicon/github.png)](https://github.com/jss2a98aj/CuttingEdge) - needs [jss's Baubles fork](https://github.com/jss2a98aj/Baubles)
-* Dragon Mounts [![icon-github](img/favicon/github.png)](https://github.com/ata4/dragon-mounts) 
-    * jss fork [![icon-github](img/favicon/github.png)](https://github.com/jss2a98aj/dragon-mounts/commits/1.7)
-* Electrical Age [![icon-electricalage](img/favicon/electricalage.png)](https://electrical-age.net/) [![icon-github](img/favicon/github.png)](https://github.com/Electrical-Age/ElectricalAge) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/electrical-age)
-    * jrddunbr fork [![icon-github](img/favicon/github.png)](https://github.com/age-series/ElectricalAge) [![icon-modrinth](img/favicon/modrinth.png)](https://modrinth.com/mod/electrical-age-jrddunbr-edition)
-* Ender IO [![icon-github](img/favicon/github.png)](https://www.curseforge.com/minecraft/mc-mods/ender-io) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/ender-io)
-    * GTNH fork [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/EnderIO) - Most updated fork.
-    * EnderIO Unofficial [![icon-github](img/favicon/github.png)](https://github.com/Zokonius/EnderIO) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/enderio-unofficial)
-* EnviroMine [![icon-github](img/favicon/github.png)](https://github.com/EnviroMine/EnviroMine-1.7) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/enviromine)
-    * EnviroMine for Galaxy Odyssey [![icon-gitlab](img/favicon/gitlab.png)](https://gitgud.io/AstroTibs/enviromine-for-galaxy-odyssey) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/enviromine-for-galaxy-odyssey) [![icon-modrinth](img/favicon/modrinth.png)](https://modrinth.com/mod/enviromine-for-galaxy-odyssey)
-    * Envirorot [![icon-github](img/favicon/github.png)](https://github.com/dylanlogan2581/envirorot) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/envirorot) - Enviromine with just the food rot.
-* Et Futurum [![icon-github](img/favicon/github.png)](https://github.com/ganymedes01/Et-Futurum) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/et-futurum)
-    * Et Futurum Requiem [![icon-github](img/favicon/github.png)](https://github.com/Roadhog360/Et-Futurum-Requiem) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/et-futurum-requiem) [![icon-modrinth](img/favicon/modrinth.png)](https://modrinth.com/mod/etfuturum) - Massive continuation project.
-* ExtraBiomesXL [![icon-github](img/favicon/github.png)](https://github.com/ExtrabiomesXL/ExtrabiomesXL) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/extrabiomesxl)
-    * jss fork [![icon-github](img/favicon/github.png)](https://github.com/jss2a98aj/ExtrabiomesXL)
-* Gilded Games Util [![icon-github](img/favicon/github.png)](https://github.com/gildedgames/gilded-games-util/tree/1.7iochanges) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/gilded-games-util)
-    * Gilded Games Util - Fix [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/gilded-game-utils-fix) - Removed threaded lighting which is incompatible with several mods (e.g. FastCraft, ArchaicFix, Et Futurum Requiem)
-* GregGen [![icon-github](img/favicon/github.png)](https://github.com/SuperCoder7979/greggen)
-    * Dbp fork [![icon-github](img/favicon/github.png)](https://github.com/neo-engineers/greggen) [![icon-codeberg](img/favicon/codeberg.png)](https://codeberg.org/PureMC/greggen) - Removes unnecessary GT6 dependency.
-* Invasion Mod [![icon-github](img/favicon/github.png)](https://github.com/UnstoppableN/Invasion-mod) [![icon-minecraftforum](img/favicon/minecraftforum.png)](https://web.archive.org/web/20171226031645/https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/2235041-invasion-mod-so-you-think-your-base-is-tough)
-    * Doenerstyle fork [![icon-github](img/favicon/github.png)](https://github.com/Doenerstyle/Invasion-Mod)
-* Flan's Mod [![icon-flansmod](img/favicon/flansmod.png)](https://flansmod.com/)
-    * Flan's Mod Ultimate Stability Edition [![icon-github](img/favicon/github.png)](https://github.com/Unknown025/Flans-Mod-Plus) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/flans-mod-ultimate-stability-edition)
-* Forbidden Magic [![icon-github](img/favicon/github.png)](https://github.com/SpitefulFox/ForbiddenMagic) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/forbidden-magic)
-    * jss fork [![icon-github](img/favicon/github.png)](https://github.com/jss2a98aj/ForbiddenMagic)
-* Mob Hives Mod [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/mob-hives-mod)
-    * Hives Refreshed [![icon-github](img/favicon/github.png)](https://github.com/trollogyadherent/mob-hives-refreshed) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/hives-refreshed) [![icon-modrinth](img/favicon/modrinth.png)](https://modrinth.com/mod/mobhives)
-* JustAnotherSpawner [![icon-github](img/favicon/github.png)](https://github.com/ProjectZulu/JustAnotherSpawner) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/just-another-spawner) 
-    * makamys fork [![icon-github](img/favicon/github.png)](https://github.com/makamys/JustAnotherSpawner) - Fixes one bug.
-* littleMaidMob [![icon-minecraftforum](img/favicon/minecraftforum.png)](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1287042-1-7-10-1-8-littlemaidmob-final-versions-updated)
-    * littleMaidMobX [![icon-minecraftuserjp](img/favicon/minecraftuserjp.png)](https://web.archive.org/web/20181113082356/http://forum.minecraftuser.jp/viewtopic.php?f=13&t=23347)
-        * nidefawl fork [![icon-github](img/favicon/github.png)](https://github.com/nidefawl/littleMaidMobX)
-            * littleMaidMobEnhanced [![icon-github](img/favicon/github.png)](https://github.com/Goujer/LittleMaidMobEnhanced) - Fixes incompatibility with Mixin. [<sup>[*]</sup>](https://github.com/makamys/MAtmos/issues/12)
-        * littleMaidMobAX [![icon-github](img/favicon/github.png)](https://github.com/asiekierka/littleMaidMobX) - Not recommended for use, but the repo's wiki has some documentation.
-* LunatriusCore [![icon-github](img/favicon/github.png)](https://github.com/Lunatrius/LunatriusCore) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/lunatriuscore)
-    * GTNH fork [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/LunatriusCore)
-* MAtmos [![icon-github](img/favicon/github.png)](https://github.com/Sollace/MAtmos)
-    * makamys fork [![icon-github](img/favicon/github.png)](https://github.com/makamys/MAtmos) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/matmos) [![icon-modrinth](img/favicon/modrinth.png)](https://modrinth.com/mod/matmos) - Fixed many bugs and added new features.
-* Mekanism [![icon-github](img/favicon/github.png)](https://github.com/mekanism/mekanism) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/mekanism)
-    * Mekanism Community Edition [![icon-github](img/favicon/github.png)](https://github.com/DrParadox7/Mekanism) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/mekanism-ce)
-* Mo' Creatures [![icon-github](img/favicon/github.png)](https://github.com/DrZhark/mocreaturesdev) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/mo-creatures)
-    * jss fork [![icon-github](img/favicon/github.png)](https://github.com/jss2a98aj/mocreaturesdev)
-* Natura [![icon-github](img/favicon/github.png)](https://github.com/progwml6/Natura) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/natura)
-    * GTNH fork [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/Natura)
-    * Rukachan fork [![icon-github](img/favicon/github.png)](https://github.com/Rukachan/Nature) - Has been referred to as "very fucked up" by jss. The GTNH fork is recommended instead, which has added toggles for a lot of stuff and is claimed to be much less broken.
-        * jss fork [![icon-github](img/favicon/github.png)](https://github.com/jss2a98aj/Nature) - Ditto. The improvements have been replicated in the GTNN fork where applicable.
-* NotEnoughItems [![icon-github](img/favicon/github.png)](https://github.com/Chicken-Bones/NotEnoughItems) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/notenoughitems)
-    * GTNH fork [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/NotEnoughItems) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/notenoughitems-gtnh) [![icon-modrinth](img/favicon/modrinth.png)](https://modrinth.com/mod/notenoughitems-unofficial) - Backports JEI-style tabs and bookmarks.
-* PlayerAPI [![icon-minecraftforum](img/favicon/minecraftforum.png)](https://web.archive.org/web/20150728075519/http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1277996-player-api) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/player-api)
-    * makamys fork [![icon-github](img/favicon/github.png)](https://github.com/makamys/PlayerAPI)
-* QwerTech [![icon-github](img/favicon/github.png)](https://github.com/Qwertygiy/qwertech) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/qwertech)
-    * Yog fork [![icon-github](img/favicon/github.png)](https://github.com/Yoghurt4C/qwertech/tree/webedit-1)
-    * bioastroiner fork [![icon-github](img/favicon/github.png)](https://github.com/bioastroiner/qwertech)
-* Schematica [![icon-github](img/favicon/github.png)](https://github.com/Lunatrius/Schematica) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/schematica)
-    * GTNH fork [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/Schematica) - Has coordinate saving and a few other QoL changes that are not GTNH-specific. Requires [GTNH's LunatriusCore fork](https://github.com/GTNewHorizons/LunatriusCore).
-* Ships Mod [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/ships-mod)
-    * Cuchaz Ships Unofficial [![icon-github](img/favicon/github.png)](https://github.com/TeloDev/Cuchaz-Ships) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/ships-mod-unofficial)
-* Smart Moving [![icon-minecraftforum](img/favicon/minecraftforum.png)](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1274224-smart-moving) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/smart-moving)
-    * makamys fork [![icon-github](img/favicon/github.png)](https://github.com/makamys/SmartMoving)
-* Spice Of Life [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/the-spice-of-life)
-    * Spice Of Life - Carrot Edition - Unofficial [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/SpiceOfLife) [![icon-modrinth](img/favicon/modrinth.png)](https://modrinth.com/mod/spice-of-life-carrot-edition-unofficial)
-* Steve's Addons [![icon-github](img/favicon/github.png)](https://github.com/hilburn/StevesAddons) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/steves-addons)
-    * GTNH fork [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/StevesAddons)
-* Steve's Factory Manager [![icon-github](img/favicon/github.png)](https://github.com/Vswe/ModJam3) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/steves-factory-manager)
-    * GTNH fork [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/Steve-s-Factory-Manager)
-* Tabby Chat [![icon-github](img/favicon/github.png)](https://github.com/killjoy1221/tabbychat)
-    * mist475 fork [![icon-github](img/favicon/github.png)](https://github.com/mist475/tabbychat) [![icon-modrinth](img/favicon/modrinth.png)](https://modrinth.com/mod/tabbychat-unofficial)
-* Thaumic Exploration [![icon-github](img/favicon/github.png)](https://github.com/KatrinaAS/Thaumic_Exploration) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/thaumic-exploration)
-    * GTNH fork [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/Thaumic_Exploration) - Updated often
-    * KryptonCaptain fork [![icon-github](img/favicon/github.png)](https://github.com/KryptonCaptain/Thaumic_Exploration)
-* Thaumic Tinkerer [![icon-github](img/favicon/github.png)](https://github.com/Thaumic-Tinkerer) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/thaumic-tinkerer)
-    * GTNH fork [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/ThaumicTinkerer) - Probably won't work unless you use GTNH mods, updated often
-        * DrParadox fork [![icon-github](img/favicon/github.png)](https://github.com/DrParadox7/ThaumicTinkerer) - Make it able to run outside of GTNH packs
-            * Jerome226 fork [![icon-github](img/favicon/github.png)](https://github.com/Jerome226/ThaumicTinkerer) - Make it able to run without AE2
-    * KryptonCaptain fork [![icon-github](img/favicon/github.png)](https://github.com/KryptonCaptain/ThaumicTinkerer)
-* Twilight Forest [![icon-github](img/favicon/github.png)](https://github.com/TeamTwilight/twilightforest) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
-    * jss fork [![icon-github](img/favicon/github.png)](https://github.com/jss2a98aj/twilightforest)
-        * GTNH fork [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/twilightforest)
-* Waila [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/waila)
-    * GTNH fork [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/waila) - Fixed the annoying keybind bug.
-* WTFCaveBiomes [![icon-github](img/favicon/github.png)](https://github.com/WhiskyTangoFawks/WTFCavebiomes) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/wtfs-expedition-cavebiomes-ores-trees-and-tweaks)
-    * makamys fork [![icon-github](img/favicon/github.png)](https://github.com/makamys/WTFCavebiomes) - Fixed a bug, restored missing source code.
+- The Aether [![icon-github](img/favicon/github.png)](https://github.com/Gilded-Games/The-Aether-Archived) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/aether) [![icon-modrinth](img/favicon/modrinth.png)](https://modrinth.com/mod/aether)
+    - makamys fork [![icon-github](img/favicon/github.png)](https://github.com/makamys/The-Aether-Archived/tree/fix-buttons-in-modded-guis) - Fixes [one bug](https://github.com/gildedgames/aether-issues/issues/742).
+- Ancient Warfare 2 [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/ancient-warfare-2)
+    - Ancient Warfare 3 [![icon-modrinth](img/favicon/modrinth.png)](https://modrinth.com/mod/ancient-warfare)
+- AppleCore [![icon-github](img/favicon/github.png)](https://github.com/squeek502/AppleCore) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/applecore)
+    - AppleCore Unofficial [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/AppleCore) [![icon-modrinth](img/favicon/modrinth.png)](https://modrinth.com/mod/applecore-unofficial)
+- Applied Energistics 2 [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)
+    - AE2 Unofficial Fork [![icon-github](img/favicon/github.png)](https://github.com/xsun2001/Applied-Energistics-2-Unofficial) - Fix somes bugs with AE2
+        - GTNH fork [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial) - Updated, preferably use instead of original AE2 Unofficial
+- Aroma1997core [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/aroma1997core)
+    - aroma1997core Unofficial [![icon-github](img/favicon/github.png)](https://github.com/trollogyadherent/aroma1997core-unofficial) - Aroma Core without the wrench so it's not required on the client anymore.
+- Ars Magica 2
+    - jss fork [![icon-github](img/favicon/github.png)](https://github.com/jss2a98aj/ArsMagica2)
+        - Lost Era fork [![icon-github](img/favicon/github.png)](https://github.com/DrParadox7/ArsMagica2) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/ars-magica-2-le)
+        - Ars Magica 2.5 [![icon-github](img/favicon/github.png)](https://github.com/TCLProject/ArsMagica2-5) [![icon-modrinth](img/favicon/modrinth.png)](https://modrinth.com/mod/ars-magica-25)
+- Mine & Blade: Battlegear 2 [![icon-github](img/favicon/github.png)](https://github.com/Mine-and-blade-admin/Battlegear2) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/mb-battlegear-2) - A visual comparison of its forks can be found [here](https://cdn.discordapp.com/attachments/741043720761376883/1063567171847987321/image.png).
+    - The Offhand Mod [![icon-github](img/favicon/github.png)](https://github.com/TCLProject/theoffhandmod) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/the-offhand-mod) [![icon-modrinth](img/favicon/modrinth.png)](https://modrinth.com/mod/offhandmod) - Fork with just the dual wielding.
+        - Backhand [![icon-github](img/favicon/github.png)](https://github.com/c0508383/Backhand) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/backhand) [![icon-modrinth](img/favicon/modrinth.png)](https://modrinth.com/mod/backhand) - Fork with a different implementation of dual wielding that resembles modern vanilla.
+- Baubles [![icon-github](img/favicon/github.png)](https://github.com/Azanor/Baubles/tree/1.7.10) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/baubles)
+    - jss fork [![icon-github](img/favicon/github.png)](https://github.com/jss2a98aj/Baubles) - Adds API that lets mod register their own slot types.
+- Botania [![icon-github](img/favicon/github.png)](https://github.com/VazkiiMods/Botania) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/botania)
+    - GTNH fork [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/Botania)
+- BugTorch [![icon-github](img/favicon/github.png)](https://github.com/jss2a98aj/BugTorch)
+    - GTNH fork [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/BugTorch) - Requires GTNHMixins.
+- CodeChickenCore [![icon-github](img/favicon/github.png)](https://github.com/Chicken-Bones/CodeChickenCore) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/codechickencore)
+    - GTNH fork [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/CodeChickenCore) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/codechickencore-unofficial) [![icon-modrinth](img/favicon/modrinth.png)](https://modrinth.com/mod/codechickencore-unofficial)
+- CodeChickenLib [![icon-github](img/favicon/github.png)](https://github.com/Chicken-Bones/CodeChickenLib) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/codechickenlib)
+    - GTNH fork [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/CodeChickenLib) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/codechickenlib-unofficial) [![icon-modrinth](img/favicon/modrinth.png)](https://modrinth.com/mod/codechickenlib-unofficial)
+- CraftPresence [![icon-gitlab](img/favicon/gitlab.png)](https://gitlab.com/CDAGaming/CraftPresence) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/craftpresence) [![icon-modrinth](img/favicon/modrinth.png)](https://modrinth.com/mod/craftpresence)
+    - GTNH fork [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/CraftPresence) - Fix some bugs but not upstream with original mod
+- CustomMOTD [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/p455w0rds-motd-customizer)
+    - Custom MOTD NoClient [![icon-github](img/favicon/github.png)](https://github.com/trollogyadherent/CustomMotd_1.7.10_fork) - Removed client requirements and backported player list feature.
+- Cutting Edge [![icon-github](img/favicon/github.png)](https://github.com/TTFTCUTS/CuttingEdge) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/cutting-edge)
+    - jss fork [![icon-github](img/favicon/github.png)](https://github.com/jss2a98aj/CuttingEdge) - needs [jss's Baubles fork](https://github.com/jss2a98aj/Baubles)
+- Dragon Mounts [![icon-github](img/favicon/github.png)](https://github.com/ata4/dragon-mounts) 
+    - jss fork [![icon-github](img/favicon/github.png)](https://github.com/jss2a98aj/dragon-mounts/commits/1.7)
+- Electrical Age [![icon-electricalage](img/favicon/electricalage.png)](https://electrical-age.net/) [![icon-github](img/favicon/github.png)](https://github.com/Electrical-Age/ElectricalAge) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/electrical-age)
+    - jrddunbr fork [![icon-github](img/favicon/github.png)](https://github.com/age-series/ElectricalAge) [![icon-modrinth](img/favicon/modrinth.png)](https://modrinth.com/mod/electrical-age-jrddunbr-edition)
+- Ender IO [![icon-github](img/favicon/github.png)](https://www.curseforge.com/minecraft/mc-mods/ender-io) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/ender-io)
+    - GTNH fork [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/EnderIO) - Most updated fork.
+    - EnderIO Unofficial [![icon-github](img/favicon/github.png)](https://github.com/Zokonius/EnderIO) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/enderio-unofficial)
+- EnviroMine [![icon-github](img/favicon/github.png)](https://github.com/EnviroMine/EnviroMine-1.7) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/enviromine)
+    - EnviroMine for Galaxy Odyssey [![icon-gitlab](img/favicon/gitlab.png)](https://gitgud.io/AstroTibs/enviromine-for-galaxy-odyssey) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/enviromine-for-galaxy-odyssey) [![icon-modrinth](img/favicon/modrinth.png)](https://modrinth.com/mod/enviromine-for-galaxy-odyssey)
+    - Envirorot [![icon-github](img/favicon/github.png)](https://github.com/dylanlogan2581/envirorot) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/envirorot) - Enviromine with just the food rot.
+- Et Futurum [![icon-github](img/favicon/github.png)](https://github.com/ganymedes01/Et-Futurum) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/et-futurum)
+    - Et Futurum Requiem [![icon-github](img/favicon/github.png)](https://github.com/Roadhog360/Et-Futurum-Requiem) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/et-futurum-requiem) [![icon-modrinth](img/favicon/modrinth.png)](https://modrinth.com/mod/etfuturum) - Massive continuation project.
+- ExtraBiomesXL [![icon-github](img/favicon/github.png)](https://github.com/ExtrabiomesXL/ExtrabiomesXL) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/extrabiomesxl)
+    - jss fork [![icon-github](img/favicon/github.png)](https://github.com/jss2a98aj/ExtrabiomesXL)
+- Gilded Games Util [![icon-github](img/favicon/github.png)](https://github.com/gildedgames/gilded-games-util/tree/1.7iochanges) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/gilded-games-util)
+    - Gilded Games Util - Fix [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/gilded-game-utils-fix) - Removed threaded lighting which is incompatible with several mods (e.g. FastCraft, ArchaicFix, Et Futurum Requiem)
+- GregGen [![icon-github](img/favicon/github.png)](https://github.com/SuperCoder7979/greggen)
+    - Dbp fork [![icon-github](img/favicon/github.png)](https://github.com/neo-engineers/greggen) [![icon-codeberg](img/favicon/codeberg.png)](https://codeberg.org/PureMC/greggen) - Removes unnecessary GT6 dependency.
+- Invasion Mod [![icon-github](img/favicon/github.png)](https://github.com/UnstoppableN/Invasion-mod) [![icon-minecraftforum](img/favicon/minecraftforum.png)](https://web.archive.org/web/20171226031645/https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/2235041-invasion-mod-so-you-think-your-base-is-tough)
+    - Doenerstyle fork [![icon-github](img/favicon/github.png)](https://github.com/Doenerstyle/Invasion-Mod)
+- Flan's Mod [![icon-flansmod](img/favicon/flansmod.png)](https://flansmod.com/)
+    - Flan's Mod Ultimate Stability Edition [![icon-github](img/favicon/github.png)](https://github.com/Unknown025/Flans-Mod-Plus) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/flans-mod-ultimate-stability-edition)
+- Forbidden Magic [![icon-github](img/favicon/github.png)](https://github.com/SpitefulFox/ForbiddenMagic) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/forbidden-magic)
+    - jss fork [![icon-github](img/favicon/github.png)](https://github.com/jss2a98aj/ForbiddenMagic)
+- Mob Hives Mod [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/mob-hives-mod)
+    - Hives Refreshed [![icon-github](img/favicon/github.png)](https://github.com/trollogyadherent/mob-hives-refreshed) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/hives-refreshed) [![icon-modrinth](img/favicon/modrinth.png)](https://modrinth.com/mod/mobhives)
+- JustAnotherSpawner [![icon-github](img/favicon/github.png)](https://github.com/ProjectZulu/JustAnotherSpawner) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/just-another-spawner) 
+    - makamys fork [![icon-github](img/favicon/github.png)](https://github.com/makamys/JustAnotherSpawner) - Fixes one bug.
+- littleMaidMob [![icon-minecraftforum](img/favicon/minecraftforum.png)](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1287042-1-7-10-1-8-littlemaidmob-final-versions-updated)
+    - littleMaidMobX [![icon-minecraftuserjp](img/favicon/minecraftuserjp.png)](https://web.archive.org/web/20181113082356/http://forum.minecraftuser.jp/viewtopic.php?f=13&t=23347)
+        - nidefawl fork [![icon-github](img/favicon/github.png)](https://github.com/nidefawl/littleMaidMobX)
+            - littleMaidMobEnhanced [![icon-github](img/favicon/github.png)](https://github.com/Goujer/LittleMaidMobEnhanced) - Fixes incompatibility with Mixin. [<sup>[*]</sup>](https://github.com/makamys/MAtmos/issues/12)
+        - littleMaidMobAX [![icon-github](img/favicon/github.png)](https://github.com/asiekierka/littleMaidMobX) - Not recommended for use, but the repo's wiki has some documentation.
+- LunatriusCore [![icon-github](img/favicon/github.png)](https://github.com/Lunatrius/LunatriusCore) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/lunatriuscore)
+    - GTNH fork [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/LunatriusCore)
+- MAtmos [![icon-github](img/favicon/github.png)](https://github.com/Sollace/MAtmos)
+    - makamys fork [![icon-github](img/favicon/github.png)](https://github.com/makamys/MAtmos) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/matmos) [![icon-modrinth](img/favicon/modrinth.png)](https://modrinth.com/mod/matmos) - Fixed many bugs and added new features.
+- Mekanism [![icon-github](img/favicon/github.png)](https://github.com/mekanism/mekanism) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/mekanism)
+    - Mekanism Community Edition [![icon-github](img/favicon/github.png)](https://github.com/DrParadox7/Mekanism) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/mekanism-ce)
+- Mo' Creatures [![icon-github](img/favicon/github.png)](https://github.com/DrZhark/mocreaturesdev) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/mo-creatures)
+    - jss fork [![icon-github](img/favicon/github.png)](https://github.com/jss2a98aj/mocreaturesdev)
+- Natura [![icon-github](img/favicon/github.png)](https://github.com/progwml6/Natura) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/natura)
+    - GTNH fork [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/Natura)
+    - Rukachan fork [![icon-github](img/favicon/github.png)](https://github.com/Rukachan/Nature) - Has been referred to as "very fucked up" by jss. The GTNH fork is recommended instead, which has added toggles for a lot of stuff and is claimed to be much less broken.
+        - jss fork [![icon-github](img/favicon/github.png)](https://github.com/jss2a98aj/Nature) - Ditto. The improvements have been replicated in the GTNN fork where applicable.
+- NotEnoughItems [![icon-github](img/favicon/github.png)](https://github.com/Chicken-Bones/NotEnoughItems) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/notenoughitems)
+    - GTNH fork [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/NotEnoughItems) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/notenoughitems-gtnh) [![icon-modrinth](img/favicon/modrinth.png)](https://modrinth.com/mod/notenoughitems-unofficial) - Backports JEI-style tabs and bookmarks.
+- PlayerAPI [![icon-minecraftforum](img/favicon/minecraftforum.png)](https://web.archive.org/web/20150728075519/http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1277996-player-api) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/player-api)
+    - makamys fork [![icon-github](img/favicon/github.png)](https://github.com/makamys/PlayerAPI)
+- QwerTech [![icon-github](img/favicon/github.png)](https://github.com/Qwertygiy/qwertech) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/qwertech)
+    - Yog fork [![icon-github](img/favicon/github.png)](https://github.com/Yoghurt4C/qwertech/tree/webedit-1)
+    - bioastroiner fork [![icon-github](img/favicon/github.png)](https://github.com/bioastroiner/qwertech)
+- Schematica [![icon-github](img/favicon/github.png)](https://github.com/Lunatrius/Schematica) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/schematica)
+    - GTNH fork [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/Schematica) - Has coordinate saving and a few other QoL changes that are not GTNH-specific. Requires [GTNH's LunatriusCore fork](https://github.com/GTNewHorizons/LunatriusCore).
+- Ships Mod [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/ships-mod)
+    - Cuchaz Ships Unofficial [![icon-github](img/favicon/github.png)](https://github.com/TeloDev/Cuchaz-Ships) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/ships-mod-unofficial)
+- Smart Moving [![icon-minecraftforum](img/favicon/minecraftforum.png)](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1274224-smart-moving) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/smart-moving)
+    - makamys fork [![icon-github](img/favicon/github.png)](https://github.com/makamys/SmartMoving)
+- Spice Of Life [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/the-spice-of-life)
+    - Spice Of Life - Carrot Edition - Unofficial [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/SpiceOfLife) [![icon-modrinth](img/favicon/modrinth.png)](https://modrinth.com/mod/spice-of-life-carrot-edition-unofficial)
+- Steve's Addons [![icon-github](img/favicon/github.png)](https://github.com/hilburn/StevesAddons) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/steves-addons)
+    - GTNH fork [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/StevesAddons)
+- Steve's Factory Manager [![icon-github](img/favicon/github.png)](https://github.com/Vswe/ModJam3) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/steves-factory-manager)
+    - GTNH fork [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/Steve-s-Factory-Manager)
+- Tabby Chat [![icon-github](img/favicon/github.png)](https://github.com/killjoy1221/tabbychat)
+    - mist475 fork [![icon-github](img/favicon/github.png)](https://github.com/mist475/tabbychat) [![icon-modrinth](img/favicon/modrinth.png)](https://modrinth.com/mod/tabbychat-unofficial)
+- Thaumic Exploration [![icon-github](img/favicon/github.png)](https://github.com/KatrinaAS/Thaumic_Exploration) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/thaumic-exploration)
+    - GTNH fork [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/Thaumic_Exploration) - Updated often
+    - KryptonCaptain fork [![icon-github](img/favicon/github.png)](https://github.com/KryptonCaptain/Thaumic_Exploration)
+- Thaumic Tinkerer [![icon-github](img/favicon/github.png)](https://github.com/Thaumic-Tinkerer) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/thaumic-tinkerer)
+    - GTNH fork [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/ThaumicTinkerer) - Probably won't work unless you use GTNH mods, updated often
+        - DrParadox fork [![icon-github](img/favicon/github.png)](https://github.com/DrParadox7/ThaumicTinkerer) - Make it able to run outside of GTNH packs
+            - Jerome226 fork [![icon-github](img/favicon/github.png)](https://github.com/Jerome226/ThaumicTinkerer) - Make it able to run without AE2
+    - KryptonCaptain fork [![icon-github](img/favicon/github.png)](https://github.com/KryptonCaptain/ThaumicTinkerer)
+- Twilight Forest [![icon-github](img/favicon/github.png)](https://github.com/TeamTwilight/twilightforest) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
+    - jss fork [![icon-github](img/favicon/github.png)](https://github.com/jss2a98aj/twilightforest)
+        - GTNH fork [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/twilightforest)
+- Waila [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/waila)
+    - GTNH fork [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/waila) - Fixed the annoying keybind bug.
+- WTFCaveBiomes [![icon-github](img/favicon/github.png)](https://github.com/WhiskyTangoFawks/WTFCavebiomes) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/wtfs-expedition-cavebiomes-ores-trees-and-tweaks)
+    - makamys fork [![icon-github](img/favicon/github.png)](https://github.com/makamys/WTFCavebiomes) - Fixed a bug, restored missing source code.
 
 ## Ports
 
 Forks where the original version was not for 1.7.10.
 
-* Dimensional Doors [1.6.4] [![icon-github](img/favicon/github.png)](https://github.com/StevenRS11/DimDoors)
-    * CannibalVox fork [![icon-github](img/favicon/github.png)](https://github.com/CannibalVox/DimDoors) - Forwardport.
-        * embeddedt fork [![icon-github](img/favicon/github.png)](https://github.com/embeddedt/DimensionalDoors-1.7.10)
-* Eyes in the Darkness [1.12.2+] [![icon-github](img/favicon/github.png)](https://github.com/gigaherz/EyesInTheDarkness) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/eyes-in-the-darkness)
-    * Eyes in the Shadows [![icon-github](img/favicon/github.png)](https://github.com/trollogyadherent/EyesInTheShadows) - Backport.
-* GregTech 4 [1.6.2] [![icon-gregtech](img/favicon/gregtech.png)](https://gregtech.overminddl1.com/1.6.2/index.html)
-    * Nukepowered fork [![icon-github](img/favicon/github.png)](https://github.com/Nukepowered/GregTech4) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/gregtech-4) - Forwardport.
-* Lag Goggles [1.10.2+] [![icon-github](img/favicon/github.png)](https://github.com/TerminatorNL/LagGoggles) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/laggoggles)
-    * Lag Goggles Legacy [![icon-github](img/favicon/github.png)](https://github.com/FalsePattern/LagGogglesLegacy) [![icon-modrinth](img/favicon/modrinth.png)](https://modrinth.com/mod/lglegacy) - Backport.
-* Metaworlds [1.7.2] [![icon-bitbucket](img/favicon/bitbucket.png)](https://bitbucket.org/MMM_MasterM/metaworldsgradle/src/master/) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/metaworlds-mod)
-    * Metaworlds Unofficial [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/metaworlds-unofficial) [![icon-modrinth](img/favicon/modrinth.png)](https://modrinth.com/mod/metaworldsunofficial) - Forwardport.
-* Nutrition [1.10.2+] [![icon-github](img/favicon/github.png)](https://github.com/WesCook/Nutrition)
-    * GTNH fork [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/Nutrition) - Backport.
-* Serene Seasons [1.12.2+] [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)
-    * DarkShadow44 fork [![icon-github](img/favicon/github.png)](https://github.com/DarkShadow44/SereneSeasons) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/serene-seasons) - Backport (includes SereneTweaks). The 1.7.10 version is no longer updated on CurseForge; check the GitHub repository for the newest fixes.
-* Super Sound Muffler [1.10.2+] [![icon-github](img/favicon/github.png)](https://github.com/EdgarAllen/SuperSoundMuffler)
-    * Super Sound Muffler Legacy [![icon-github](img/favicon/github.png)](https://github.com/FalsePattern/SuperSoundMuffler-Legacy) [![icon-modrinth](img/favicon/modrinth.png)](https://modrinth.com/mod/ssmlegacy) - Backport.
+- Dimensional Doors [1.6.4] [![icon-github](img/favicon/github.png)](https://github.com/StevenRS11/DimDoors)
+    - CannibalVox fork [![icon-github](img/favicon/github.png)](https://github.com/CannibalVox/DimDoors) - Forwardport.
+        - embeddedt fork [![icon-github](img/favicon/github.png)](https://github.com/embeddedt/DimensionalDoors-1.7.10)
+- Eyes in the Darkness [1.12.2+] [![icon-github](img/favicon/github.png)](https://github.com/gigaherz/EyesInTheDarkness) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/eyes-in-the-darkness)
+    - Eyes in the Shadows [![icon-github](img/favicon/github.png)](https://github.com/trollogyadherent/EyesInTheShadows) - Backport.
+- GregTech 4 [1.6.2] [![icon-gregtech](img/favicon/gregtech.png)](https://gregtech.overminddl1.com/1.6.2/index.html)
+    - Nukepowered fork [![icon-github](img/favicon/github.png)](https://github.com/Nukepowered/GregTech4) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/gregtech-4) - Forwardport.
+- Lag Goggles [1.10.2+] [![icon-github](img/favicon/github.png)](https://github.com/TerminatorNL/LagGoggles) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/laggoggles)
+    - Lag Goggles Legacy [![icon-github](img/favicon/github.png)](https://github.com/FalsePattern/LagGogglesLegacy) [![icon-modrinth](img/favicon/modrinth.png)](https://modrinth.com/mod/lglegacy) - Backport.
+- Metaworlds [1.7.2] [![icon-bitbucket](img/favicon/bitbucket.png)](https://bitbucket.org/MMM_MasterM/metaworldsgradle/src/master/) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/metaworlds-mod)
+    - Metaworlds Unofficial [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/metaworlds-unofficial) [![icon-modrinth](img/favicon/modrinth.png)](https://modrinth.com/mod/metaworldsunofficial) - Forwardport.
+- Nutrition [1.10.2+] [![icon-github](img/favicon/github.png)](https://github.com/WesCook/Nutrition)
+    - GTNH fork [![icon-github](img/favicon/github.png)](https://github.com/GTNewHorizons/Nutrition) - Backport.
+- Serene Seasons [1.12.2+] [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)
+    - DarkShadow44 fork [![icon-github](img/favicon/github.png)](https://github.com/DarkShadow44/SereneSeasons) [![icon-curseforge](img/favicon/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/serene-seasons) - Backport (includes SereneTweaks). The 1.7.10 version is no longer updated on CurseForge; check the GitHub repository for the newest fixes.
+- Super Sound Muffler [1.10.2+] [![icon-github](img/favicon/github.png)](https://github.com/EdgarAllen/SuperSoundMuffler)
+    - Super Sound Muffler Legacy [![icon-github](img/favicon/github.png)](https://github.com/FalsePattern/SuperSoundMuffler-Legacy) [![icon-modrinth](img/favicon/modrinth.png)](https://modrinth.com/mod/ssmlegacy) - Backport.

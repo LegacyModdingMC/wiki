@@ -9,10 +9,10 @@ This guide will show you how to revitalize the build script using a fork of [For
 # Introduction
 
 ## What you need
-* You need to have Java 8 installed on your machine.
-* It is recommended to have Git installed
-* It is recommended to have Gradle 4.4.1 installed
-* The steps below are written using Bash as the shell. On Windows you can easily get a Bash installation by installing [Git for Windows](https://git-scm.com/download/win).
+- You need to have Java 8 installed on your machine.
+- It is recommended to have Git installed
+- It is recommended to have Gradle 4.4.1 installed
+- The steps below are written using Bash as the shell. On Windows you can easily get a Bash installation by installing [Git for Windows](https://git-scm.com/download/win).
 
 > If you're insistent on using cmd, you will have to replace `./gradlew` with `gradlew` in the commands. As for PowerShell, the commands should work unless otherwise noted.
 
@@ -48,8 +48,8 @@ If you're especially unlucky, the mod doesn't even come with a build script. Wit
 
 Building the mod using the Gradle wrapper (`gradlew`) is the most reliable way, and it's what we will be focusing on in this guide. If you can't find a file called `gradlew` in the same directory as `build.gradle`, you need to put it there.
 
-* If you have Gradle installed system-wide, you can simply run `gradle wrapper --gradle-version 4.4.1` to generate it. (4.4.1 is the version recommended for best compatibility, see [below](#use-gradle-441) for more details.)
-* If you don't have Gradle installed, you can copy it from a mod that has it. For example, [GTNewHorizons/ExampleMod1.7.10@a159153](https://github.com/GTNewHorizons/ExampleMod1.7.10/tree/a15915363a5a46dc609d3de46c069bcb8b4db527). Copy `gradlew`, `gradlew.bat`, and the `gradle` directory.
+- If you have Gradle installed system-wide, you can simply run `gradle wrapper --gradle-version 4.4.1` to generate it. (4.4.1 is the version recommended for best compatibility, see [below](#use-gradle-441) for more details.)
+- If you don't have Gradle installed, you can copy it from a mod that has it. For example, [GTNewHorizons/ExampleMod1.7.10@a159153](https://github.com/GTNewHorizons/ExampleMod1.7.10/tree/a15915363a5a46dc609d3de46c069bcb8b4db527). Copy `gradlew`, `gradlew.bat`, and the `gradle` directory.
 
 **Alternatively,** you can use the system-wide installation of Gradle instead of the Gradle wrapper, but you have to make sure it's the right version. I have 4.4.1 installed this way for convenience. In this case, you can run `gradle <command>` instead of `./gradlew <command>`.
 
@@ -148,4 +148,4 @@ buildscript {
 **Alternatively,** you don't have to do this step at all if you have already successfully run `./gradlew setupDecompWorkspace` in a mod with a working build script (such as [GTNewHorizons/ExampleMod](https://github.com/GTNewHorizons/ExampleMod1.7.10)). In this case your Gradle cache has been filled with the necessary files, and a mod using the upstream version of ForgeGradle will manage to build.
 
 # Further reading
-* [https://gtnh.miraheze.org/wiki/Development#Getting_started](https://gtnh.miraheze.org/wiki/Development#Getting_started)
+- [https://gtnh.miraheze.org/wiki/Development#Getting_started](https://gtnh.miraheze.org/wiki/Development#Getting_started)
