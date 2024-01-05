@@ -118,8 +118,8 @@ Some of these mods don't have binaries available and have to be compiled manuall
 	* jss fork {gh:https://github.com/jss2a98aj/mocreaturesdev}
 * Natura {gh:https://github.com/progwml6/Natura} {cf:https://www.curseforge.com/minecraft/mc-mods/natura}
 	* GTNH fork {gh:https://github.com/GTNewHorizons/Natura}
-	* Rukachan fork {gh:https://github.com/Rukachan/Nature}
-		* jss fork {gh:https://github.com/jss2a98aj/Nature}
+	* Rukachan fork {gh:https://github.com/Rukachan/Nature} - Has been referred to as "very fucked up" by jss. The GTNH fork is recommended instead, which has added toggles for a lot of stuff and is claimed to be much less broken.
+		* jss fork {gh:https://github.com/jss2a98aj/Nature} - Ditto.
 * NotEnoughItems {gh:https://github.com/Chicken-Bones/NotEnoughItems} {cf:https://www.curseforge.com/minecraft/mc-mods/notenoughitems}
 	* GTNH fork {gh:https://github.com/GTNewHorizons/NotEnoughItems} {cf:https://www.curseforge.com/minecraft/mc-mods/notenoughitems-gtnh} {mr:https://modrinth.com/mod/notenoughitems-unofficial} - Backports JEI-style tabs and bookmarks.
 * PlayerAPI {mcf:https://web.archive.org/web/20150728075519/http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1277996-player-api} {cf:https://www.curseforge.com/minecraft/mc-mods/player-api}
