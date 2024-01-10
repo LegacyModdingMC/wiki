@@ -31,7 +31,7 @@ jobs:
       - name: Install Python dependencies
         run: python3 -m pip install mkdocs mkdocs-windmill
       - name: Generate HTML
-        run: mkdocs build
+        run: python3 -m mkdocs build
       - name: Upload page artifact
         uses: actions/upload-pages-artifact@v1
         with:

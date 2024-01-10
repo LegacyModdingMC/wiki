@@ -6,7 +6,7 @@ The wiki can be browsed **[here](https://legacymoddingmc.github.io/wiki/)**.
 
 It's possible to contribute by simply editing the markdown files in the `docs` directory. The index page is at [docs/index.md](docs/index.md).
 
-Some files are generated from templates. These have a corresponding `.template.md` file. Do not edit the generated files directly. Edit the template file, and run `python3 build.py` to regenerate the output files before committing.
+We use a custom markdown extension for rendering favicon links in the "list of mod forks" pages. The documentation for this can be found at [markdown_extensions/README.md](markdown_extensions/README.md).
 
 ### Testing
 
@@ -14,8 +14,10 @@ To test changes, it may be desirable to set up a local mkdocs server:
 
 ```
 pip install mkdocs
-mkdocs serve
+python -m mkdocs serve
 ```
+
+> Note: The use of `python -m` is deliberate. It puts our custom extension on the PYTHONPATH, unlike `mkdocs serve`, which doesn't work as a result.
 
 The wiki will be browsable at [http://localhost:8000/](http://localhost:8000/) with live reloading.
 
