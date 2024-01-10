@@ -29,7 +29,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Install Python dependencies
-        run: python3 -m pip install mkdocs mkdocs-windmill
+        run: python3 -m pip install mkdocs
       - name: Generate HTML
         run: python3 -m mkdocs build
       - name: Upload page artifact
