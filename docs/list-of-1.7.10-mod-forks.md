@@ -15,8 +15,6 @@ Some of these mods don't have binaries available and have to be compiled manuall
 
 ## Forks
 
-- The Aether {gh:https://github.com/Gilded-Games/The-Aether-Archived} {cf:https://legacy.curseforge.com/minecraft/mc-mods/aether} {mr:https://modrinth.com/mod/aether}
-    - makamys fork {gh:https://github.com/makamys/The-Aether-Archived/tree/fix-buttons-in-modded-guis} - Fixes [one bug](https://github.com/gildedgames/aether-issues/issues/742).
 - Ancient Warfare 2 {cf:https://legacy.curseforge.com/minecraft/mc-mods/ancient-warfare-2}
     - Ancient Warfare 3 {mr:https://modrinth.com/mod/ancient-warfare}
 - AppleCore {gh:https://github.com/squeek502/AppleCore} {cf:https://legacy.curseforge.com/minecraft/mc-mods/applecore}
