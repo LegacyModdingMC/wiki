@@ -69,7 +69,7 @@ Some of these mods don't have binaries available and have to be compiled manuall
     - jss fork {gh:https://github.com/jss2a98aj/ExtrabiomesXL}
 - Gilded Games Util {gh:https://github.com/gildedgames/gilded-games-util/tree/1.7iochanges} {cf:https://legacy.curseforge.com/minecraft/mc-mods/gilded-games-util}
     - Gilded Games Util - Fix {cf:https://legacy.curseforge.com/minecraft/mc-mods/gilded-game-utils-fix} - Removed threaded lighting which is incompatible with several mods (e.g. FastCraft, ArchaicFix, Et Futurum Requiem)
-- GregGen {gh:https://github.com/SuperCoder7979/greggen}
+- GregGen {gh:https://github.com/SuperCoder7979/greggen} {gregtech:https://forum.mechaenetia.com/t/greggen-worldgen-addon-for-gt6/1915}
     - Dbp fork {gh:https://github.com/neo-engineers/greggen} {cb:https://codeberg.org/PureMC/greggen} - Removes unnecessary GT6 dependency.
 - Invasion Mod {gh:https://github.com/UnstoppableN/Invasion-mod} {mcf:https://web.archive.org/web/20171226031645/https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/2235041-invasion-mod-so-you-think-your-base-is-tough}
     - Doenerstyle fork {gh:https://github.com/Doenerstyle/Invasion-Mod}
