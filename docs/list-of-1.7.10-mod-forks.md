@@ -17,6 +17,8 @@ Some of these mods don't have binaries available and have to be compiled manuall
 
 - Ancient Warfare 2 {cf:https://legacy.curseforge.com/minecraft/mc-mods/ancient-warfare-2}
     - Ancient Warfare 3 {mr:https://modrinth.com/mod/ancient-warfare}
+- Antique Atlas {cf:https://legacy.curseforge.com/minecraft/mc-mods/antique-atlas} {gh:https://github.com/AntiqueAtlasTeam/AntiqueAtlas}
+    - LegacyModdingMC fork {gh:https://github.com/LegacyModdingMC/AntiqueAtlas}
 - AppleCore {gh:https://github.com/squeek502/AppleCore} {cf:https://legacy.curseforge.com/minecraft/mc-mods/applecore}
     - AppleCore Unofficial {gh:https://github.com/GTNewHorizons/AppleCore} {mr:https://modrinth.com/mod/applecore-unofficial}
 - Applied Energistics 2 {cf:https://legacy.curseforge.com/minecraft/mc-mods/applied-energistics-2}
@@ -61,6 +63,8 @@ Some of these mods don't have binaries available and have to be compiled manuall
     - Envirorot {gh:https://github.com/dylanlogan2581/envirorot} {cf:https://legacy.curseforge.com/minecraft/mc-mods/envirorot} - Enviromine with just the food rot.
 - Et Futurum {gh:https://github.com/ganymedes01/Et-Futurum} {cf:https://legacy.curseforge.com/minecraft/mc-mods/et-futurum}
     - Et Futurum Requiem {gh:https://github.com/Roadhog360/Et-Futurum-Requiem} {cf:https://legacy.curseforge.com/minecraft/mc-mods/et-futurum-requiem} {mr:https://modrinth.com/mod/etfuturum} - Massive continuation project.
+- Ex Nihilo {cf:https://legacy.curseforge.com/minecraft/mc-mods/ex-nihilo} {bb:https://bitbucket.org/RedRockFowl/ex-nihilo/src/master/}
+    - LegacyModdingMC fork {gh:https://github.com/LegacyModdingMC/ex-nihilo}
 - ExtraBiomesXL {gh:https://github.com/ExtrabiomesXL/ExtrabiomesXL} {cf:https://legacy.curseforge.com/minecraft/mc-mods/extrabiomesxl}
     - jss fork {gh:https://github.com/jss2a98aj/ExtrabiomesXL}
 - Gilded Games Util {gh:https://github.com/gildedgames/gilded-games-util/tree/1.7iochanges} {cf:https://legacy.curseforge.com/minecraft/mc-mods/gilded-games-util}
@@ -77,6 +81,8 @@ Some of these mods don't have binaries available and have to be compiled manuall
     - Hives Refreshed {gh:https://github.com/trollogyadherent/mob-hives-refreshed} {cf:https://legacy.curseforge.com/minecraft/mc-mods/hives-refreshed} {mr:https://modrinth.com/mod/mobhives}
 - JustAnotherSpawner {gh:https://github.com/ProjectZulu/JustAnotherSpawner} {cf:https://legacy.curseforge.com/minecraft/mc-mods/just-another-spawner} 
     - makamys fork {gh:https://github.com/makamys/JustAnotherSpawner} - Fixes one bug.
+- KoRIN Regions {cf:https://legacy.curseforge.com/minecraft/mc-mods/kingdom-of-rin-regions} {gh:https://github.com/Ninifey/KoRIN-Regions}
+    - LegacyModdingMC fork {gh:https://github.com/LegacyModdingMC/KoRIN-Regions}
 - littleMaidMob {mcf:https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1287042-1-7-10-1-8-littlemaidmob-final-versions-updated}
     - littleMaidMobX {mujp:https://web.archive.org/web/20181113082356/http://forum.minecraftuser.jp/viewtopic.php?f=13&t=23347}
         - nidefawl fork {gh:https://github.com/nidefawl/littleMaidMobX}
@@ -107,6 +113,8 @@ Some of these mods don't have binaries available and have to be compiled manuall
     - Cuchaz Ships Unofficial {gh:https://github.com/TeloDev/Cuchaz-Ships} {cf:https://legacy.curseforge.com/minecraft/mc-mods/ships-mod-unofficial}
 - Smart Moving {mcf:https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1274224-smart-moving} {cf:https://legacy.curseforge.com/minecraft/mc-mods/smart-moving}
     - makamys fork {gh:https://github.com/makamys/SmartMoving}
+- SignPosts {cf:https://legacy.curseforge.com/minecraft/mc-mods/signposts} {gh:https://github.com/harceroi/SignPosts}
+    - LegacyModdingMC fork {gh:https://github.com/LegacyModdingMC/SignPosts}
 - Spice Of Life {cf:https://legacy.curseforge.com/minecraft/mc-mods/the-spice-of-life}
     - Spice Of Life - Carrot Edition - Unofficial {gh:https://github.com/GTNewHorizons/SpiceOfLife} {mr:https://modrinth.com/mod/spice-of-life-carrot-edition-unofficial}
 - Steve's Addons {gh:https://github.com/hilburn/StevesAddons} {cf:https://legacy.curseforge.com/minecraft/mc-mods/steves-addons}
@@ -130,6 +138,7 @@ Some of these mods don't have binaries available and have to be compiled manuall
     - GTNH fork {gh:https://github.com/GTNewHorizons/waila} - Fixed the annoying keybind bug.
 - WTFCaveBiomes {gh:https://github.com/WhiskyTangoFawks/WTFCavebiomes} {cf:https://legacy.curseforge.com/minecraft/mc-mods/wtfs-expedition-cavebiomes-ores-trees-and-tweaks}
     - makamys fork {gh:https://github.com/makamys/WTFCavebiomes} - Fixed a bug, restored missing source code.
+        - LegacyModdingMC fork {gh:https://github.com/LegacyModdingMC/WTFCavebiomes} - More fixes.
 
 ## Ports
 
