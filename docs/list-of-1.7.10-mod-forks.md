@@ -164,3 +164,6 @@ Forks where the original version was not for 1.7.10.
         - mist475 fork {gh:https://github.com/mist475/Sound-Physics} - Converted ASM to mixins.
 - Super Sound Muffler [1.10.2+] {gh:https://github.com/EdgarAllen/SuperSoundMuffler}
     - Super Sound Muffler Legacy {gh:https://github.com/FalsePattern/SuperSoundMuffler-Legacy} {mr:https://modrinth.com/mod/ssmlegacy} - Backport.
+- TextureDump [1.10.2+] {gh:https://github.com/mezz/TextureDump} {cf:https://www.curseforge.com/minecraft/mc-mods/texture-dump/files}
+    - charagarlnad fork {gh:https://github.com/charagarlnad/TextureDump} - Backport.
+        - UltraHex fork {gh:https://github.com/UltraHex/TextureDump}
