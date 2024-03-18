@@ -14,11 +14,33 @@ Tip: [NotEnoughVerbosity](https://github.com/LegacyModdingMC/NotEnoughVerbosity)
 
 These three launchers are all based on the same codebase.
 
-No issues known.
+No issues known. This is the golden standard as far as launchers go.
 
 Logging: Uses [the standard logging configuration](https://github.com/MinecraftForge/MinecraftForge/blob/9274e4fe435cb415099a8216c1b42235f185443e/fml/src/main/resources/log4j2.xml) (with a trace level `fml-client-latest.log`, a not very useful `latest.log`, and a sometimes useful `fml-junk-earlystartup.log`). I have no idea how the GUI log works.
 
 Java runtime: User provided
+
+## Official Launcher
+
+### Modern (2.x)
+
+Uses [the vanilla launcher config](https://launchermeta.mojang.com/mc/log_configs/client-1.7.xml/6605d632a2399010c0085d3e4da58974d62ccdfe/client-1.7.xml) even in modded instances.
+
+### Legacy (1.x)
+
+Deletes extra items from the assets directory (`$launcherDir/assets`).
+
+`$launcherDir/launcher_profiles.json` holds the verson of the launcher in `.launcher_version.name` (e.g. `1.6.61`.)
+
+## CurseForge Launcher
+
+(?)
+
+Java runtime: Downloads 8u51. A different version can be forced if a mystery CF-specific flag is set<sup>[[*](https://github.com/GTNewHorizons/Angelica/issues/82#issuecomment-1871629459)]</sup>. (The flag in question seems to be `-version:1.8+`.)<sup>[[*](https://old.reddit.com/r/feedthebeast/comments/4kq9ks/how_do_i_change_the_default_version_of_java_that/d3hiod2/)]</sup>
+
+## Technic Launcher
+
+Uses [LaunchWrapper's logger config](https://github.com/Mojang/LegacyLauncher/blob/a4801b70f8a0148c6e6279ec2e91527e8019e1c8/src/main/resources/log4j2.xml) (which is based on vanilla 1.7.2's) due to incorrect classpath ordering.
 
 ## ATLauncher
 
@@ -33,24 +55,6 @@ Logging: Uses a custom log configuration ([example from a 1.7 Forge instance](ht
     - There's an option to configure the verbosity in the settings, but it doesn't seem to do anything.
 
 Java runtime: Downloads 8u51 by default. A custom install can be provided.
-
-## Technic Launcher
-
-Uses [LaunchWrapper's logger config](https://github.com/Mojang/LegacyLauncher/blob/a4801b70f8a0148c6e6279ec2e91527e8019e1c8/src/main/resources/log4j2.xml) (which is based on vanilla 1.7.2's) due to incorrect classpath ordering.
-
-## CurseForge Launcher
-
-(?)
-
-Java runtime: Downloads 8u51. A different version can be forced if a mystery CF-specific flag is set<sup>[[*](https://github.com/GTNewHorizons/Angelica/issues/82#issuecomment-1871629459)]</sup>. (The flag in question seems to be `-version:1.8+`.)<sup>[[*](https://old.reddit.com/r/feedthebeast/comments/4kq9ks/how_do_i_change_the_default_version_of_java_that/d3hiod2/)]</sup>
-
-## Official Launcher (1.x)
-
-Uses [the vanilla launcher config](https://launchermeta.mojang.com/mc/log_configs/client-1.7.xml/6605d632a2399010c0085d3e4da58974d62ccdfe/client-1.7.xml) even in modded instances.
-
-Deletes extra items from the assets directory (`$launcherDir/assets`).
-
-`$launcherDir/launcher_profiles.json` holds the verson of the launcher in `.launcher_version.name` (e.g. `1.6.61`.)
 
 ## TLauncher
 
