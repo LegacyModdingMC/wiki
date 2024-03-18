@@ -6,7 +6,7 @@ This page is written from a 1.7 Forge mod developer's perspective.
 
 If a launcher has a (?) mark, that means I have not tested it firsthand and the information about it was derived from other users.
 
-Tip: [NotEnoughVerbosity](https://github.com/LegacyModdingMC/NotEnoughVerbosity) can be used to force any launcher to use the standard logging configuration, with a trace-level `fml-client-latest.log`.
+Tip: [NotEnoughVerbosity](https://github.com/LegacyModdingMC/NotEnoughVerbosity) can be used to force some launchers to use the standard logging configuration, with a trace-level `fml-client-latest.log`.
 
 > This page is a work in progress.
 
@@ -34,6 +34,10 @@ Logging: Uses a custom log configuration ([example from a 1.7 Forge instance](ht
 
 Java runtime: Downloads 8u51 by default. A custom install can be provided.
 
+## Technic Launcher
+
+Uses [LaunchWrapper's logger config](https://github.com/Mojang/LegacyLauncher/blob/a4801b70f8a0148c6e6279ec2e91527e8019e1c8/src/main/resources/log4j2.xml) (which is based on vanilla 1.7.2's) due to incorrect classpath ordering.
+
 ## CurseForge Launcher
 
 (?)
@@ -41,6 +45,8 @@ Java runtime: Downloads 8u51 by default. A custom install can be provided.
 Java runtime: Downloads 8u51. A different version can be forced if a mystery CF-specific flag is set<sup>[[*](https://github.com/GTNewHorizons/Angelica/issues/82#issuecomment-1871629459)]</sup>. (The flag in question seems to be `-version:1.8+`.)<sup>[[*](https://old.reddit.com/r/feedthebeast/comments/4kq9ks/how_do_i_change_the_default_version_of_java_that/d3hiod2/)]</sup>
 
 ## Official Launcher (1.x)
+
+Uses [the vanilla launcher config](https://launchermeta.mojang.com/mc/log_configs/client-1.7.xml/6605d632a2399010c0085d3e4da58974d62ccdfe/client-1.7.xml) even in modded instances.
 
 Deletes extra items from the assets directory (`$launcherDir/assets`).
 
@@ -56,6 +62,6 @@ Deletes extra items from the assets directory.
 
 (?)
 
-Logging: Uses [a custom log configuration](https://github.com/huanghongxun/HMCL/blob/c6afd53e73c5a2dc75afc7a1ab279c0b3918da82/HMCLCore/src/main/resources/assets/game/log4j2-1.7.xml).
+Logging: Uses [a custom log configuration](https://github.com/huanghongxun/HMCL/blob/c6afd53e73c5a2dc75afc7a1ab279c0b3918da82/HMCLCore/src/main/resources/assets/game/log4j2-1.7.xml) based on Vanilla's.
 
 Can export crashes into a `minecraft-exported-crash-info-<TIMESTAMP>.zip` containing logs ([example](https://github.com/LegacyModdingMC/UniMixins/files/11413614/minecraft-exported-crash-info-2023-05-07T08-14-13.zip)).
