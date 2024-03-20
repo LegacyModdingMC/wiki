@@ -86,7 +86,7 @@ In 1.7's case:
 
 ### Java runtime
 
-Downloads 8u51 by default. A custom install can be provided.
+Uses the same version as vanilla by default. A custom install can be provided.
 
 ## GDLauncher
 
