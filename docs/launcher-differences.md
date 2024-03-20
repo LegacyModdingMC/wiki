@@ -6,9 +6,11 @@ Launchers have some subtle differences between them which can cause a lot of con
 
 If a launcher has a (?) mark, that means I have not tested it firsthand and the information about it was derived from other users.
 
-Tip: [NotEnoughVerbosity](https://github.com/LegacyModdingMC/NotEnoughVerbosity) can be used to force all launchers to use Forge's logging configuration, which is:
+Forge's logging configuration is the following:
 - On [1.7.10](https://github.com/MinecraftForge/MinecraftForge/blob/1.7.10/fml/src/main/resources/log4j2.xml): an all-level `fml-client-latest.log`, a not very useful `latest.log`, and a sometimes useful `fml-junk-earlystartup.log`
 - On [1.12.2](https://github.com/MinecraftForge/MinecraftForge/blob/1.12.x/src/main/resources/log4j2.xml): a trace-level `debug.log`, and a not very useful `latest.log``
+
+Tip: [NotEnoughVerbosity](https://github.com/LegacyModdingMC/NotEnoughVerbosity) can be used to force all launchers to use it.
 
 ## MultiMC/PolyMC/PrismLauncher
 
