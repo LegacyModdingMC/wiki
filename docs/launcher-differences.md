@@ -70,7 +70,9 @@ Uses [LaunchWrapper's logger config](https://github.com/Mojang/LegacyLauncher/bl
 
 ### Logging
 
-Uses a custom log configuration ([example from a 1.7 Forge instance](https://github.com/LegacyModdingMC/wiki/blob/master/references/launchers/atlauncher/client-1.7.xml)).
+Uses the vanilla log configuration.
+
+In 1.7's case:
 
 - On the disk, only a `latest.log` is created.
 - The same log is shown in the GUI.
