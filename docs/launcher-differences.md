@@ -1,14 +1,14 @@
 # Launcher Differences
 
-Launchers have some subtle differences between them which can cause a lot of confusion for mod developers. This page tries to document these differences.
+> This page is a work in progress.
 
-This page is written from a 1.7 Forge mod developer's perspective.
+Launchers have some subtle differences between them which can cause a lot of confusion for mod developers. This page tries to document these differences.
 
 If a launcher has a (?) mark, that means I have not tested it firsthand and the information about it was derived from other users.
 
-Tip: [NotEnoughVerbosity](https://github.com/LegacyModdingMC/NotEnoughVerbosity) can be used to force some launchers to use the standard logging configuration, with a trace-level `fml-client-latest.log`.
-
-> This page is a work in progress.
+Tip: [NotEnoughVerbosity](https://github.com/LegacyModdingMC/NotEnoughVerbosity) can be used to force all launchers to use Forge's logging configuration, which is:
+- On [1.7.10](https://github.com/MinecraftForge/MinecraftForge/blob/1.7.10/fml/src/main/resources/log4j2.xml): an all-level `fml-client-latest.log`, a not very useful `latest.log`, and a sometimes useful `fml-junk-earlystartup.log`
+- On [1.12.2](https://github.com/MinecraftForge/MinecraftForge/blob/1.12.x/src/main/resources/log4j2.xml): a trace-level `debug.log`, and a not very useful `latest.log``
 
 ## MultiMC/PolyMC/PrismLauncher
 
@@ -16,15 +16,33 @@ These three launchers are all based on the same codebase.
 
 No issues known. This is the golden standard as far as launchers go.
 
-Logging: Uses [the standard logging configuration](https://github.com/MinecraftForge/MinecraftForge/blob/9274e4fe435cb415099a8216c1b42235f185443e/fml/src/main/resources/log4j2.xml) (with a trace level `fml-client-latest.log`, a not very useful `latest.log`, and a sometimes useful `fml-junk-earlystartup.log`). I have no idea how the GUI log works.
+### Logging
 
-Java runtime: User provided
+Uses Forge's logging configuration.
+
+I have no idea how the GUI log works.
+
+### Java runtime
+
+User provided.
 
 ## Official Launcher
 
 ### Modern (2.x)
 
-Uses [the vanilla launcher config](https://launchermeta.mojang.com/mc/log_configs/client-1.7.xml/6605d632a2399010c0085d3e4da58974d62ccdfe/client-1.7.xml) even in modded instances.
+Versions are defined in `.minecraft/versions/<version>/<version>.json`. Mod loader installers define their own versions here.
+
+#### Logging
+
+For logging purposes the important fields are `inheritsFrom`, which lets a version inherit the settings of another version, and `logging`, which is where logger configs are defined.
+
+The Forge 1.7.10 installer (and even Fabric 1.20.4) doesn't override the `logging` field, therefore [the vanilla logger config](https://launchermeta.mojang.com/mc/log_configs/client-1.7.xml/6605d632a2399010c0085d3e4da58974d62ccdfe/client-1.7.xml) is used.
+
+I've found references ([1](https://bugs.mojang.com/browse/MC-123285), [2](https://wiki.vg/Debugging)) to a GUI option that allows changing the logging config, but it's nowhere to be found.
+
+#### Java version
+
+By default it uses the one defined by the Mojang API. For 1.7.10 this is 8u51. A custom one can be set on the "Edit installation" screen.
 
 ### Legacy (1.x)
 
@@ -34,17 +52,25 @@ Deletes extra items from the assets directory (`$launcherDir/assets`).
 
 ## CurseForge Launcher
 
-(?)
+It's just a frontend for the vanilla launcher. It has its own copy of it, and every time an instance is launched, it generates a launcher profile then launches it.
 
-Java runtime: Downloads 8u51. A different version can be forced if a mystery CF-specific flag is set<sup>[[*](https://github.com/GTNewHorizons/Angelica/issues/82#issuecomment-1871629459)]</sup>. (The flag in question seems to be `-version:1.8+`.)<sup>[[*](https://old.reddit.com/r/feedthebeast/comments/4kq9ks/how_do_i_change_the_default_version_of_java_that/d3hiod2/)]</sup>
+### Logging
+
+It uses the vanilla config by default, but this can be changed by enabling "Enable Forge debug.log" in the settings. Despite what the name says, all this does is put `"logging": {},` in the generated launcher profile, which cancels out the logger profile inherited from the vanilla profile. This setting is permanent - instances launched while it was active will keep the "no logging" property set even after the option is disabled. (This is defined in `.baseModLoader.versionJson` in `minecraftinstance.json` in the instance directory).
+
+### Java runtime
+
+Uses the same version as vanilla by default. This can be overridden for Java 8 by using Java's [`-version` flag](http://web.archive.org/web/20090228125625/http://blogs.sun.com/ksrini/entry/java_launcher_tricks_with_multiple). For example, `-version:1.8+` will choose the newest `1.8` version installed on the system. Only versions of Java installed system-wide can be used this way, portable installs won't work (e.g. on Windows it checks the `Computer\HKEY_LOCAL_MACHINE\SOFTWARE\JavaSoft\Java Runtime Environment\1.8\JavaHome` registry string).
 
 ## Technic Launcher
 
-Uses [LaunchWrapper's logger config](https://github.com/Mojang/LegacyLauncher/blob/a4801b70f8a0148c6e6279ec2e91527e8019e1c8/src/main/resources/log4j2.xml) (which is based on vanilla 1.7.2's) due to incorrect classpath ordering.
+Uses [LaunchWrapper's logger config](https://github.com/Mojang/LegacyLauncher/blob/a4801b70f8a0148c6e6279ec2e91527e8019e1c8/src/main/resources/log4j2.xml) (which is based on vanilla 1.7.2's) due to [seemingly incorrect classpath ordering](https://github.com/TechnicPack/LauncherV3/issues/350).
 
 ## ATLauncher
 
-Logging: Uses a custom log configuration ([example from a 1.7 Forge instance](https://github.com/LegacyModdingMC/wiki/blob/master/references/launchers/atlauncher/client-1.7.xml)).
+### Logging
+
+Uses a custom log configuration ([example from a 1.7 Forge instance](https://github.com/LegacyModdingMC/wiki/blob/master/references/launchers/atlauncher/client-1.7.xml)).
 
 - On the disk, only a `latest.log` is created.
 - The same log is shown in the GUI.
@@ -54,7 +80,13 @@ Logging: Uses a custom log configuration ([example from a 1.7 Forge instance](ht
     - It tries to remove sensitive information from the log, for example all occurrences of the launcher's path are replaced with `**USERSDIR**`.
     - There's an option to configure the verbosity in the settings, but it doesn't seem to do anything.
 
-Java runtime: Downloads 8u51 by default. A custom install can be provided.
+### Java runtime
+
+Downloads 8u51 by default. A custom install can be provided.
+
+## GDLauncher
+
+It's a mystery. When I try to create an instance, it just keeps redownloading assets over and over again.
 
 ## TLauncher
 
